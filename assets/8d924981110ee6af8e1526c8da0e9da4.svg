@@ -1,0 +1,3180 @@
+<svg height="484" width="471" viewBox="1277 2427 471 484" xmlns="http://www.w3.org/2000/svg" version="1.2">
+	<title>Windows-svg</title>
+	<defs>
+		<clipPath id="cp1" clipPathUnits="userSpaceOnUse">
+			<path d="m1548.98 2437.58v175.51h-73.17v-175.51z"></path>
+		</clipPath>
+		<clipPath id="cp2" clipPathUnits="userSpaceOnUse">
+			<path d="m1652.31 2454.89v158.2h-140.41v-158.2z"></path>
+		</clipPath>
+		<clipPath id="cp3" clipPathUnits="userSpaceOnUse">
+			<path d="m1690.87 2533.5v79.1h-178.97v-79.1z"></path>
+		</clipPath>
+		<clipPath id="cp4" clipPathUnits="userSpaceOnUse">
+			<path d="m1512.89 2454.89v158.2h-140.4v-158.2z"></path>
+		</clipPath>
+		<clipPath id="cp5" clipPathUnits="userSpaceOnUse">
+			<path d="m1512.89 2533.5v79.1h-178.96v-79.1z"></path>
+		</clipPath>
+		<radialGradient gradientTransform="matrix(-258.152,0,0,-175.09,1512.458,2737.308)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g1">
+			<stop stop-color="#e9d7a7" offset="0"></stop>
+			<stop stop-color="#e4cd93" offset=".8"></stop>
+			<stop stop-color="#e0c480" offset="1"></stop>
+		</radialGradient>
+		<radialGradient gradientTransform="matrix(-258.152,0,0,-175.09,1512.458,2737.311)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g2">
+			<stop stop-color="#e9d7a7" offset="0"></stop>
+			<stop stop-color="#e4cd93" offset=".8"></stop>
+			<stop stop-color="#e0c480" offset="1"></stop>
+		</radialGradient>
+		<radialGradient gradientTransform="matrix(24.3,16.078,-38.73,28.625,1311.21,2029.193)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g3">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#dae6e5" offset="1"></stop>
+		</radialGradient>
+		<radialGradient gradientTransform="matrix(15.707,14.033,-27.165,23.69,1385.488,2604.312)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g4">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#cfdfdd" offset="1"></stop>
+		</radialGradient>
+		<clipPath id="cp6" clipPathUnits="userSpaceOnUse">
+			<path d="m1423.9 2589.36c-7.91 17.8-33.12 50.92-54.87 57.84 5.93-45.97 12.85-52.4 54.87-57.84z"></path>
+		</clipPath>
+		<radialGradient gradientTransform="matrix(24.3,-16.078,-38.73,-28.625,1310.935,2313.315)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g5">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#dae6e5" offset="1"></stop>
+		</radialGradient>
+		<radialGradient gradientTransform="matrix(15.707,-14.033,-27.165,-23.69,1385.221,2875.01)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g6">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#cfdfdd" offset="1"></stop>
+		</radialGradient>
+		<clipPath id="cp7" clipPathUnits="userSpaceOnUse">
+			<path d="m1423.9 2889.95c-7.91-17.8-33.12-50.93-54.87-57.35 5.93 45.48 12.85 51.91 54.87 57.35z"></path>
+		</clipPath>
+		<radialGradient gradientTransform="matrix(-24.3,16.078,38.73,28.625,1198.883,2598.456)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g7">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#dae6e5" offset="1"></stop>
+		</radialGradient>
+		<radialGradient gradientTransform="matrix(-15.707,14.033,27.165,23.69,1637.974,2604.397)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g8">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#cfdfdd" offset="1"></stop>
+		</radialGradient>
+		<clipPath id="cp8" clipPathUnits="userSpaceOnUse">
+			<path d="m1599.41 2589.36c7.91 17.8 33.12 50.92 54.88 57.84-5.94-45.97-12.86-52.4-54.88-57.84z"></path>
+		</clipPath>
+		<radialGradient gradientTransform="matrix(-24.3,-16.078,38.73,-28.625,1202.772,3299.977)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g9">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#dae6e5" offset="1"></stop>
+		</radialGradient>
+		<radialGradient gradientTransform="matrix(-15.707,-14.033,27.165,-23.69,1637.747,2874.925)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g10">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#cfdfdd" offset="1"></stop>
+		</radialGradient>
+		<clipPath id="cp9" clipPathUnits="userSpaceOnUse">
+			<path d="m1599.41 2889.95c7.91-17.8 33.12-50.93 54.88-57.35-5.94 45.48-12.86 51.91-54.88 57.35z"></path>
+		</clipPath>
+		<linearGradient gradientTransform="matrix(-26.039,0,0,-26.652,1624.392,2604.958)" gradientUnits="userSpaceOnUse" x2="1" id="g11">
+			<stop stop-color="#8e4d25" offset="0"></stop>
+			<stop stop-color="#723e1e" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(-17.229,-0.005,.004,-15.416,1619.092,2608.048)" gradientUnits="userSpaceOnUse" x2="1" id="g12">
+			<stop stop-color="#ac5d2d" offset="0"></stop>
+			<stop stop-color="#8e4d25" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(23.864,0,0,47.269,1598.456,2611.163)" gradientUnits="userSpaceOnUse" x2="1" id="g13">
+			<stop stop-color="#723e1e" offset="0"></stop>
+			<stop stop-color="#462613" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(-61.346,-0.002,.003,-37.037,1661.675,2619.844)" gradientUnits="userSpaceOnUse" x2="1" id="g14">
+			<stop stop-color="#8e4d25" offset="0"></stop>
+			<stop stop-color="#ac5d2d" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(-61.089,-0.002,.003,-34.447,1659.51,2620.015)" gradientUnits="userSpaceOnUse" x2="1" id="g15">
+			<stop stop-color="#ac5d2d" offset="0"></stop>
+			<stop stop-color="#e58c55" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(-26.044,0,0,-26.657,1443.012,2604.958)" gradientUnits="userSpaceOnUse" x2="1" id="g16">
+			<stop stop-color="#8e4d25" offset="0"></stop>
+			<stop stop-color="#723e1e" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(-17.261,-0.001,.002,-15.444,1442.242,2607.99)" gradientUnits="userSpaceOnUse" x2="1" id="g17">
+			<stop stop-color="#ac5d2d" offset="0"></stop>
+			<stop stop-color="#8e4d25" offset="1"></stop>
+		</linearGradient>
+		<radialGradient gradientTransform="matrix(.007,33.621,-153.251,.166,1511.899,2604.277)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g18">
+			<stop stop-color="#cfdfdd" offset="0"></stop>
+			<stop stop-color="#c4d8d5" offset=".851"></stop>
+			<stop stop-color="#b9d1cd" offset="1"></stop>
+		</radialGradient>
+		<radialGradient gradientTransform="matrix(74.457,0,0,19.196,1512.064,2603.593)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="g19">
+			<stop stop-color="#ffffff" offset="0"></stop>
+			<stop stop-color="#cfdfdd" offset="1"></stop>
+		</radialGradient>
+		<clipPath id="cp10" clipPathUnits="userSpaceOnUse">
+			<path d="m1445.66 2584.42h132.49c4.45 0 8.41 3.46 8.41 7.91v22.24c0 4.45-3.96 7.91-8.41 7.91h-132.49c-4.45 0-7.91-3.46-7.91-7.91v-22.24c0-4.45 3.46-7.91 7.91-7.91z"></path>
+		</clipPath>
+		<linearGradient gradientTransform="matrix(0,-11.237,98.568,0,1515.182,2615.424)" gradientUnits="userSpaceOnUse" x2="1" id="g20">
+			<stop stop-color="#d1e1df" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-2.446,21.37,0,1515.008,2615.537)" gradientUnits="userSpaceOnUse" x2="1" id="g21">
+			<stop stop-color="#d4e2e0" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-2.374,20.651,0,1514.928,2615.96)" gradientUnits="userSpaceOnUse" x2="1" id="g22">
+			<stop stop-color="#d6e4e2" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-2.303,19.859,0,1515.088,2615.888)" gradientUnits="userSpaceOnUse" x2="1" id="g23">
+			<stop stop-color="#d8e5e3" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-9.759,86.531,0,1514.866,2616.235)" gradientUnits="userSpaceOnUse" x2="1" id="g24">
+			<stop stop-color="#dae7e5" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-2.159,18.42,0,1514.929,2616.238)" gradientUnits="userSpaceOnUse" x2="1" id="g25">
+			<stop stop-color="#dde8e7" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-2.015,17.7,0,1514.849,2616.589)" gradientUnits="userSpaceOnUse" x2="1" id="g26">
+			<stop stop-color="#dfeae8" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-8.657,75.666,0,1514.623,2616.843)" gradientUnits="userSpaceOnUse" x2="1" id="g27">
+			<stop stop-color="#e1ebea" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-1.871,16.261,0,1514.69,2616.939)" gradientUnits="userSpaceOnUse" x2="1" id="g28">
+			<stop stop-color="#e4edec" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-1.799,15.542,0,1514.611,2617.362)" gradientUnits="userSpaceOnUse" x2="1" id="g29">
+			<stop stop-color="#e6eeed" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-1.727,14.822,0,1514.531,2617.29)" gradientUnits="userSpaceOnUse" x2="1" id="g30">
+			<stop stop-color="#e8f0ef" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-7.178,63.954,0,1514.302,2617.654)" gradientUnits="userSpaceOnUse" x2="1" id="g31">
+			<stop stop-color="#eaf1f0" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-1.511,13.383,0,1514.372,2618.063)" gradientUnits="userSpaceOnUse" x2="1" id="g32">
+			<stop stop-color="#edf3f2" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-6.442,56.688,0,1514.144,2618.06)" gradientUnits="userSpaceOnUse" x2="1" id="g33">
+			<stop stop-color="#eff4f4" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-1.367,11.944,0,1514.213,2618.413)" gradientUnits="userSpaceOnUse" x2="1" id="g34">
+			<stop stop-color="#f1f6f5" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-5.7,49.085,0,1513.981,2618.465)" gradientUnits="userSpaceOnUse" x2="1" id="g35">
+			<stop stop-color="#f4f7f7" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-1.223,10.433,0,1513.799,2618.764)" gradientUnits="userSpaceOnUse" x2="1" id="g36">
+			<stop stop-color="#f6f9f9" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-1.151,9.713,0,1513.719,2618.692)" gradientUnits="userSpaceOnUse" x2="1" id="g37">
+			<stop stop-color="#f8fafa" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-1.007,8.994,0,1513.64,2619.042)" gradientUnits="userSpaceOnUse" x2="1" id="g38">
+			<stop stop-color="#fafcfc" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(0,-4.227,37.393,0,1513.664,2619.276)" gradientUnits="userSpaceOnUse" x2="1" id="g39">
+			<stop stop-color="#fdfdfd" offset="0"></stop>
+			<stop stop-color="#ffffff" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(23.869,0,0,47.279,1400.658,2611.163)" gradientUnits="userSpaceOnUse" x2="1" id="g40">
+			<stop stop-color="#723e1e" offset="0"></stop>
+			<stop stop-color="#462613" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(61.314,0,0,37.019,1363.006,2619.686)" gradientUnits="userSpaceOnUse" x2="1" id="g41">
+			<stop stop-color="#8e4d25" offset="0"></stop>
+			<stop stop-color="#ac5d2d" offset="1"></stop>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(61.089,-0.002,.003,34.447,1365.287,2620.015)" gradientUnits="userSpaceOnUse" x2="1" id="g42">
+			<stop stop-color="#ac5d2d" offset="0"></stop>
+			<stop stop-color="#e58c55" offset="1"></stop>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffcc00 } 
+		.s1 { fill: #53381d } 
+		.s2 { fill: #996633 } 
+		.s3 { fill: #ca9560 } 
+		.s4 { fill: #af753b } 
+		.s5 { fill: #412c17 } 
+		.s6 { fill: #b78b2d } 
+		.s7 { fill: #eedfba } 
+		.s8 { fill: url(#g1) } 
+		.s9 { fill: url(#g2) } 
+		.s10 { fill: #d5ad51 } 
+		.s11 { fill: #836221 } 
+		.s12 { fill: #b9d1cd } 
+		.s13 { fill: url(#g3) } 
+		.s14 { fill: #ffffff } 
+		.s15 { fill: url(#g4) } 
+		.s16 { opacity: .2;fill: #ffffff } 
+		.s17 { fill: none } 
+		.s18 { fill: #7f9995 } 
+		.s19 { fill: url(#g5) } 
+		.s20 { fill: url(#g6) } 
+		.s21 { fill: url(#g7) } 
+		.s22 { fill: url(#g8) } 
+		.s23 { fill: url(#g9) } 
+		.s24 { fill: url(#g10) } 
+		.s25 { fill: #ae3328 } 
+		.s26 { fill: #c7392f } 
+		.s27 { fill: #922922 } 
+		.s28 { fill: #fea000 } 
+		.s29 { fill: #ffff00 } 
+		.s30 { fill: #ffc221 } 
+		.s31 { fill: #ffdb26 } 
+		.s32 { fill: #b80e65 } 
+		.s33 { fill: #ff7db1 } 
+		.s34 { fill: #ff3f8d } 
+		.s35 { fill: #ff5d9d } 
+		.s36 { fill: #ff207b } 
+		.s37 { fill: #c56b33 } 
+		.s38 { fill: url(#g11) } 
+		.s39 { fill: #ecb28e } 
+		.s40 { fill: url(#g12) } 
+		.s41 { fill: url(#g13) } 
+		.s42 { fill: url(#g14) } 
+		.s43 { fill: url(#g15) } 
+		.s44 { fill: url(#g16) } 
+		.s45 { fill: url(#g17) } 
+		.s46 { fill: url(#g18) } 
+		.s47 { opacity: .2;fill: #ffffff;stroke: #96b0ac;stroke-width: .9 } 
+		.s48 { fill: url(#g19) } 
+		.s49 { opacity: 0;fill: url(#g20) } 
+		.s50 { opacity: .1;fill: url(#g21) } 
+		.s51 { opacity: .1;fill: url(#g22) } 
+		.s52 { opacity: .2;fill: url(#g23) } 
+		.s53 { opacity: .2;fill: url(#g24) } 
+		.s54 { opacity: .3;fill: url(#g25) } 
+		.s55 { opacity: .3;fill: url(#g26) } 
+		.s56 { opacity: .4;fill: url(#g27) } 
+		.s57 { opacity: .4;fill: url(#g28) } 
+		.s58 { opacity: .5;fill: url(#g29) } 
+		.s59 { opacity: .5;fill: url(#g30) } 
+		.s60 { opacity: .6;fill: url(#g31) } 
+		.s61 { opacity: .6;fill: url(#g32) } 
+		.s62 { opacity: .7;fill: url(#g33) } 
+		.s63 { opacity: .7;fill: url(#g34) } 
+		.s64 { opacity: .8;fill: url(#g35) } 
+		.s65 { opacity: .8;fill: url(#g36) } 
+		.s66 { opacity: .9;fill: url(#g37) } 
+		.s67 { opacity: .9;fill: url(#g38) } 
+		.s68 { opacity: 1;fill: url(#g39) } 
+		.s69 { opacity: .3;fill: #ffffff } 
+		.s70 { fill: url(#g40) } 
+		.s71 { fill: url(#g41) } 
+		.s72 { fill: url(#g42) } 
+		.t73 { font-size: 24px;fill: #d11313;font-weight: 400;font-family: "IndigoRegular-Regular", "Indigo" } 
+		.t74 { font-size: 45px;fill: #d11313;font-weight: 700;font-family: "SinkinSans-700Bold", "Sinkin Sans 700" } 
+	</style>
+	<g id="Layer 1">
+		<g id="_1161603888">
+			<g id="Clip-Path: polygon2598">
+			</g>
+			<g id="Clip-Path: polygon2600">
+			</g>
+			<g id="Clip-Path: polygon2602">
+			</g>
+			<g id="Clip-Path: polygon2604">
+			</g>
+			<g id="Clip-Path: polygon2606">
+			</g>
+		</g>
+		<g id="_1161602192">
+		</g>
+		<g id="_1161598544">
+		</g>
+		<g id="_1161624976">
+			<g id="g2651">
+			</g>
+			<g id="g2661">
+			</g>
+			<g id="g2689">
+			</g>
+			<g id="g2699">
+				<g id="g2701">
+				</g>
+				<g id="g2713">
+					<g id="Clip-Path: g2725">
+						<g id="g2725">
+							<g id="g2727">
+								<g id="g2730">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g2780">
+				</g>
+				<g id="g2802">
+				</g>
+				<g id="g2824">
+				</g>
+				<g id="g2842">
+				</g>
+			</g>
+			<g id="g2870">
+			</g>
+		</g>
+		<g id="g2898">
+		</g>
+		<g id="g2902">
+		</g>
+		<g id="g2906">
+		</g>
+		<g id="g2909">
+		</g>
+		<g id="g2912">
+		</g>
+		<g id="g2915">
+		</g>
+		<g id="g2918">
+		</g>
+		<g id="g2921">
+		</g>
+		<g id="g2924">
+		</g>
+		<g id="g2927">
+		</g>
+		<g id="g2930">
+		</g>
+		<g id="g2944">
+			<g id="Clip-Path: g2954">
+				<g id="g2954">
+					<g id="g2956">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g2972">
+			<g id="Clip-Path: g2982">
+				<g id="g2982">
+					<g id="g2984">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g3000">
+			<g id="Clip-Path: g3010">
+				<g id="g3010">
+					<g id="g3012">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g3028">
+			<g id="Clip-Path: g3038">
+				<g id="g3038">
+					<g id="g3040">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g3056">
+			<g id="g3058">
+			</g>
+			<g id="g3070">
+			</g>
+			<g id="g3092">
+			</g>
+			<g id="g3114">
+			</g>
+			<g id="g3132">
+			</g>
+		</g>
+		<g id="g3150">
+			<g id="g3152">
+				<g id="g3154">
+				</g>
+				<g id="g3166">
+					<g id="Clip-Path: g3180">
+						<g id="g3180">
+							<g id="g3182">
+								<g id="g3186">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g3240">
+				</g>
+				<g id="g3260">
+				</g>
+			</g>
+			<g id="g3280">
+			</g>
+		</g>
+		<g id="g3288">
+			<g id="g3290">
+				<g id="g3292">
+				</g>
+				<g id="g3304">
+					<g id="Clip-Path: g3318">
+						<g id="g3318">
+							<g id="g3320">
+								<g id="g3324">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g3378">
+				</g>
+				<g id="g3398">
+				</g>
+			</g>
+		</g>
+		<g id="g3426">
+			<g id="g3428">
+				<g id="g3430">
+				</g>
+				<g id="g3442">
+					<g id="Clip-Path: g3456">
+						<g id="g3456">
+							<g id="g3458">
+								<g id="g3462">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g3516">
+				</g>
+				<g id="g3536">
+				</g>
+			</g>
+			<g id="g3556">
+			</g>
+		</g>
+		<g id="g3564">
+			<g id="g3566">
+			</g>
+			<g id="g3580">
+			</g>
+			<g id="g3644">
+				<g id="Clip-Path: g3658">
+					<g id="g3658">
+						<g id="g3660">
+							<g id="g3664">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g3718">
+			</g>
+			<g id="g3738">
+			</g>
+		</g>
+		<g id="g3764">
+			<g id="g3766">
+				<g id="g3768">
+				</g>
+				<g id="g3780">
+					<g id="Clip-Path: g3794">
+						<g id="g3794">
+							<g id="g3796">
+								<g id="g3800">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g3854">
+				</g>
+				<g id="g3874">
+				</g>
+			</g>
+			<g id="g3894">
+			</g>
+		</g>
+		<g id="g3902">
+			<g id="g3904">
+				<g id="g3906">
+				</g>
+				<g id="g3918">
+					<g id="Clip-Path: g3932">
+						<g id="g3932">
+							<g id="g3934">
+								<g id="g3938">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g3992">
+				</g>
+				<g id="g4012">
+				</g>
+			</g>
+			<g id="g4032">
+			</g>
+		</g>
+		<g id="g4042">
+			<g id="g4044">
+				<g id="g4046">
+				</g>
+				<g id="g4058">
+					<g id="Clip-Path: g4072">
+						<g id="g4072">
+							<g id="g4074">
+								<g id="g4078">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g4132">
+				</g>
+				<g id="g4152">
+				</g>
+			</g>
+			<g id="g4172">
+			</g>
+		</g>
+		<g id="g4182">
+		</g>
+		<g id="g4186">
+		</g>
+		<g id="g4190">
+		</g>
+		<g id="g4194">
+		</g>
+		<g id="g4198">
+		</g>
+		<g id="g4202">
+		</g>
+		<g id="g4206">
+		</g>
+		<g id="g4210">
+		</g>
+		<g id="g4214">
+		</g>
+		<g id="g4218">
+		</g>
+		<g id="g4222">
+		</g>
+		<g id="g4248">
+		</g>
+		<g id="g4254">
+			<g id="g4256">
+			</g>
+			<g id="g4268">
+			</g>
+			<g id="g4274">
+				<g id="Clip-Path: g4288">
+					<g id="g4288">
+						<g id="g4290">
+							<g id="g4294">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g4348">
+			</g>
+			<g id="g4368">
+			</g>
+			<g id="g4388">
+			</g>
+			<g id="g4394">
+			</g>
+		</g>
+		<g id="g4400">
+		</g>
+		<g id="g4406">
+		</g>
+		<g id="g4420">
+		</g>
+		<g id="g4434">
+		</g>
+		<g id="g4448">
+		</g>
+		<g id="g4454">
+			<g id="g4456">
+			</g>
+			<g id="g4468">
+			</g>
+			<g id="g4474">
+				<g id="Clip-Path: g4488">
+					<g id="g4488">
+						<g id="g4490">
+							<g id="g4494">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g4548">
+			</g>
+			<g id="g4568">
+			</g>
+			<g id="g4588">
+			</g>
+			<g id="g4594">
+			</g>
+		</g>
+		<g id="g4600">
+		</g>
+		<g id="g4606">
+		</g>
+		<g id="g4620">
+		</g>
+		<g id="g4634">
+		</g>
+		<g id="g4648">
+		</g>
+		<g id="g4654">
+			<g id="g4656">
+			</g>
+			<g id="g4668">
+			</g>
+			<g id="g4674">
+				<g id="Clip-Path: g4688">
+					<g id="g4688">
+						<g id="g4690">
+							<g id="g4694">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g4748">
+			</g>
+			<g id="g4768">
+			</g>
+			<g id="g4788">
+			</g>
+			<g id="g4794">
+			</g>
+		</g>
+		<g id="g4800">
+		</g>
+		<g id="g4806">
+		</g>
+		<g id="g4820">
+		</g>
+		<g id="g4826">
+			<g id="g4828">
+			</g>
+			<g id="g4840">
+			</g>
+			<g id="g4846">
+				<g id="Clip-Path: g4860">
+					<g id="g4860">
+						<g id="g4862">
+							<g id="g4866">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g4920">
+			</g>
+			<g id="g4940">
+			</g>
+			<g id="g4960">
+			</g>
+			<g id="g4966">
+			</g>
+		</g>
+		<g id="g4972">
+		</g>
+		<g id="g4978">
+		</g>
+		<g id="g4992">
+		</g>
+		<g id="g5006">
+		</g>
+		<g id="g5012">
+			<g id="g5014">
+			</g>
+			<g id="g5026">
+			</g>
+			<g id="g5032">
+				<g id="Clip-Path: g5046">
+					<g id="g5046">
+						<g id="g5048">
+							<g id="g5052">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g5106">
+			</g>
+			<g id="g5126">
+			</g>
+			<g id="g5146">
+			</g>
+			<g id="g5152">
+			</g>
+		</g>
+		<g id="g5158">
+		</g>
+		<g id="g5164">
+		</g>
+		<g id="g5178">
+		</g>
+		<g id="g5192">
+		</g>
+		<g id="g5198">
+			<g id="g5200">
+			</g>
+			<g id="g5212">
+			</g>
+			<g id="g5218">
+				<g id="Clip-Path: g5232">
+					<g id="g5232">
+						<g id="g5234">
+							<g id="g5238">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g5292">
+			</g>
+			<g id="g5312">
+			</g>
+			<g id="g5332">
+			</g>
+			<g id="g5338">
+			</g>
+		</g>
+		<g id="g5344">
+		</g>
+		<g id="g5350">
+		</g>
+		<g id="g5364">
+		</g>
+		<g id="g5378">
+		</g>
+		<g id="g5384">
+			<g id="g5386">
+			</g>
+			<g id="g5398">
+			</g>
+			<g id="g5404">
+				<g id="Clip-Path: g5418">
+					<g id="g5418">
+						<g id="g5420">
+							<g id="g5424">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g5478">
+			</g>
+			<g id="g5498">
+			</g>
+			<g id="g5518">
+			</g>
+			<g id="g5524">
+			</g>
+		</g>
+		<g id="g5530">
+		</g>
+		<g id="g5536">
+		</g>
+		<g id="g5550">
+		</g>
+		<g id="g5564">
+		</g>
+		<g id="g5570">
+			<g id="g5572">
+			</g>
+			<g id="g5584">
+			</g>
+			<g id="g5590">
+				<g id="Clip-Path: g5604">
+					<g id="g5604">
+						<g id="g5606">
+							<g id="g5610">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g5664">
+			</g>
+			<g id="g5684">
+			</g>
+			<g id="g5704">
+			</g>
+			<g id="g5710">
+			</g>
+		</g>
+		<g id="g5716">
+		</g>
+		<g id="g5722">
+		</g>
+		<g id="g5736">
+		</g>
+		<g id="g5750">
+		</g>
+		<g id="g5764">
+		</g>
+		<g id="g5770">
+			<g id="g5772">
+			</g>
+			<g id="g5784">
+			</g>
+			<g id="g5790">
+				<g id="Clip-Path: g5804">
+					<g id="g5804">
+						<g id="g5806">
+							<g id="g5810">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g5864">
+			</g>
+			<g id="g5884">
+			</g>
+			<g id="g5904">
+			</g>
+			<g id="g5910">
+			</g>
+		</g>
+		<g id="g5916">
+		</g>
+		<g id="g5922">
+		</g>
+		<g id="g5936">
+		</g>
+		<g id="g5950">
+		</g>
+		<g id="g5956">
+			<g id="g5958">
+			</g>
+			<g id="g5970">
+			</g>
+			<g id="g5976">
+				<g id="Clip-Path: g5990">
+					<g id="g5990">
+						<g id="g5992">
+							<g id="g5996">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g6050">
+			</g>
+			<g id="g6070">
+			</g>
+			<g id="g6090">
+			</g>
+			<g id="g6096">
+			</g>
+		</g>
+		<g id="g6102">
+		</g>
+		<g id="g6106">
+		</g>
+		<g id="g6114">
+		</g>
+		<g id="g6128">
+		</g>
+		<g id="g6142">
+		</g>
+		<g id="g6156">
+		</g>
+		<g id="g6162">
+			<g id="g6164">
+			</g>
+			<g id="g6176">
+			</g>
+			<g id="g6182">
+				<g id="Clip-Path: g6196">
+					<g id="g6196">
+						<g id="g6198">
+							<g id="g6202">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g6256">
+			</g>
+			<g id="g6276">
+			</g>
+			<g id="g6296">
+			</g>
+			<g id="g6302">
+			</g>
+		</g>
+		<g id="g6308">
+		</g>
+		<g id="g6312">
+		</g>
+		<g id="g6320">
+		</g>
+		<g id="g6334">
+		</g>
+		<g id="g6348">
+		</g>
+		<g id="g6354">
+			<g id="g6356">
+			</g>
+			<g id="g6368">
+			</g>
+			<g id="g6374">
+				<g id="Clip-Path: g6388">
+					<g id="g6388">
+						<g id="g6390">
+							<g id="g6394">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g6448">
+			</g>
+			<g id="g6468">
+			</g>
+			<g id="g6488">
+			</g>
+			<g id="g6494">
+			</g>
+		</g>
+		<g id="g6500">
+		</g>
+		<g id="g6504">
+		</g>
+		<g id="g6512">
+		</g>
+		<g id="g6526">
+		</g>
+		<g id="g6532">
+			<g id="g6534">
+			</g>
+			<g id="g6546">
+			</g>
+			<g id="g6552">
+				<g id="Clip-Path: g6566">
+					<g id="g6566">
+						<g id="g6568">
+							<g id="g6572">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g6626">
+			</g>
+			<g id="g6646">
+			</g>
+			<g id="g6666">
+			</g>
+			<g id="g6672">
+			</g>
+		</g>
+		<g id="g6678">
+		</g>
+		<g id="g6682">
+		</g>
+		<g id="g6690">
+		</g>
+		<g id="g6704">
+		</g>
+		<g id="g6718">
+		</g>
+		<g id="g6724">
+			<g id="g6726">
+			</g>
+			<g id="g6738">
+			</g>
+			<g id="g6744">
+				<g id="Clip-Path: g6758">
+					<g id="g6758">
+						<g id="g6760">
+							<g id="g6764">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g6818">
+			</g>
+			<g id="g6838">
+			</g>
+			<g id="g6858">
+			</g>
+			<g id="g6864">
+			</g>
+		</g>
+		<g id="g6870">
+		</g>
+		<g id="g6874">
+		</g>
+		<g id="g6882">
+		</g>
+		<g id="g6896">
+		</g>
+		<g id="g6910">
+		</g>
+		<g id="g6916">
+			<g id="g6918">
+			</g>
+			<g id="g6930">
+			</g>
+			<g id="g6936">
+				<g id="Clip-Path: g6950">
+					<g id="g6950">
+						<g id="g6952">
+							<g id="g6956">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g7010">
+			</g>
+			<g id="g7030">
+			</g>
+			<g id="g7050">
+			</g>
+			<g id="g7056">
+			</g>
+		</g>
+		<g id="g7062">
+		</g>
+		<g id="g7066">
+		</g>
+		<g id="g7074">
+		</g>
+		<g id="g7088">
+			<g id="g7090">
+			</g>
+			<g id="g7102">
+				<g id="Clip-Path: g7116">
+					<g id="g7116">
+						<g id="g7118">
+							<g id="g7122">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g7176">
+			</g>
+			<g id="g7182">
+			</g>
+			<g id="g7202">
+			</g>
+			<g id="g7222">
+			</g>
+			<g id="g7228">
+			</g>
+			<g id="g7234">
+			</g>
+		</g>
+		<g id="g7242">
+			<g id="g7244">
+			</g>
+			<g id="g7256">
+				<g id="Clip-Path: g7270">
+					<g id="g7270">
+						<g id="g7272">
+							<g id="g7276">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g7330">
+			</g>
+			<g id="g7336">
+			</g>
+			<g id="g7356">
+			</g>
+			<g id="g7376">
+			</g>
+			<g id="g7382">
+			</g>
+			<g id="g7388">
+			</g>
+		</g>
+		<g id="g7396">
+			<g id="g7398">
+			</g>
+			<g id="g7410">
+				<g id="Clip-Path: g7424">
+					<g id="g7424">
+						<g id="g7426">
+							<g id="g7430">
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g7484">
+			</g>
+			<g id="g7490">
+			</g>
+			<g id="g7510">
+			</g>
+			<g id="g7530">
+			</g>
+			<g id="g7536">
+			</g>
+			<g id="g7542">
+			</g>
+		</g>
+		<g id="g7550">
+		</g>
+		<g id="g7566">
+		</g>
+		<g id="g7578">
+		</g>
+		<g id="g7590">
+		</g>
+		<g id="g7602">
+		</g>
+		<g id="g7634">
+			<g id="Clip-Path: g7644">
+				<g id="g7644">
+					<g id="g7646">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g7662">
+			<g id="Clip-Path: g7672">
+				<g id="g7672">
+					<g id="g7674">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g7690">
+			<g id="Clip-Path: g7700">
+				<g id="g7700">
+					<g id="g7702">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g7718">
+			<g id="Clip-Path: g7728">
+				<g id="g7728">
+					<g id="g7730">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g7746">
+			<g id="g7748">
+			</g>
+			<g id="g7758">
+			</g>
+			<g id="g7786">
+			</g>
+			<g id="g7796">
+				<g id="g7798">
+				</g>
+				<g id="g7810">
+					<g id="Clip-Path: g7822">
+						<g id="g7822">
+							<g id="g7824">
+								<g id="g7828">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g7878">
+				</g>
+				<g id="g7900">
+				</g>
+				<g id="g7922">
+				</g>
+				<g id="g7940">
+				</g>
+			</g>
+			<g id="g7968">
+			</g>
+		</g>
+		<g id="g7996">
+		</g>
+		<g id="g8000">
+		</g>
+		<g id="g8004">
+		</g>
+		<g id="g8008">
+		</g>
+		<g id="g8012">
+		</g>
+		<g id="g8016">
+		</g>
+		<g id="g8020">
+		</g>
+		<g id="g8024">
+		</g>
+		<g id="g8044">
+		</g>
+		<g id="g8048">
+		</g>
+		<g id="g8052">
+		</g>
+		<g id="g8056">
+		</g>
+		<g id="g8060">
+		</g>
+		<g id="g8064">
+		</g>
+		<g id="g8068">
+		</g>
+		<g id="g8072">
+		</g>
+		<g id="g8094">
+			<g id="g8098">
+				<g id="g8100">
+				</g>
+				<g id="g8112">
+				</g>
+				<g id="g8134">
+				</g>
+				<g id="g8156">
+				</g>
+				<g id="g8174">
+				</g>
+			</g>
+		</g>
+		<g id="g8204">
+			<g id="g8208">
+				<g id="g8210">
+				</g>
+				<g id="g8222">
+				</g>
+				<g id="g8244">
+				</g>
+				<g id="g8266">
+				</g>
+				<g id="g8284">
+				</g>
+			</g>
+		</g>
+		<g id="g8314">
+			<g id="g8316">
+				<g id="g8318">
+				</g>
+				<g id="g8330">
+					<g id="Clip-Path: g8344">
+						<g id="g8344">
+							<g id="g8346">
+								<g id="g8350">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g8404">
+				</g>
+				<g id="g8424">
+				</g>
+			</g>
+			<g id="g8444">
+			</g>
+		</g>
+		<g id="g8452">
+		</g>
+		<g id="g8478">
+		</g>
+		<g id="g8506">
+		</g>
+		<g id="g8520">
+			<g id="g8522">
+				<g id="g8524">
+				</g>
+				<g id="g8536">
+					<g id="Clip-Path: g8550">
+						<g id="g8550">
+							<g id="g8552">
+								<g id="g8556">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g8610">
+				</g>
+				<g id="g8630">
+				</g>
+			</g>
+			<g id="g8650">
+				<g id="g8652">
+				</g>
+				<g id="g8660">
+				</g>
+				<g id="g8668">
+				</g>
+			</g>
+		</g>
+		<g id="Clip-Path: g8678">
+			<g id="g8678">
+				<g id="g8680">
+					<g id="g8682">
+						<g id="g8684">
+						</g>
+						<g id="g8696">
+						</g>
+						<g id="g8718">
+						</g>
+						<g id="g8740">
+						</g>
+						<g id="g8758">
+						</g>
+					</g>
+					<g id="g8782">
+						<g id="g8784">
+							<g id="g8786">
+							</g>
+							<g id="g8798">
+							</g>
+							<g id="Clip-Path: g8812">
+								<g id="g8812">
+									<g id="g8814">
+										<g id="g8818">
+										</g>
+									</g>
+								</g>
+							</g>
+							<g id="Clip-Path: g8862">
+								<g id="g8862">
+								</g>
+							</g>
+							<g id="g8874">
+							</g>
+							<g id="g8894">
+							</g>
+						</g>
+						<g id="g8914">
+						</g>
+					</g>
+					<g id="g8922">
+					</g>
+					<g id="g8938">
+					</g>
+					<g id="g8954">
+					</g>
+					<g id="g8970">
+					</g>
+					<g id="g8986">
+					</g>
+					<g id="g9022">
+					</g>
+					<g id="g9048">
+						<g id="g9050">
+						</g>
+						<g id="g9062">
+						</g>
+						<g id="g9084">
+						</g>
+						<g id="g9106">
+						</g>
+						<g id="g9124">
+						</g>
+					</g>
+					<g id="g9148">
+					</g>
+					<g id="g9164">
+					</g>
+					<g id="g9180">
+					</g>
+					<g id="g9216">
+					</g>
+					<g id="g9242">
+						<g id="g9244">
+						</g>
+						<g id="g9256">
+						</g>
+						<g id="g9278">
+						</g>
+						<g id="g9300">
+						</g>
+						<g id="g9318">
+						</g>
+					</g>
+					<g id="g9342">
+					</g>
+					<g id="g9358">
+					</g>
+					<g id="g9390">
+						<g id="g9392">
+						</g>
+						<g id="g9404">
+						</g>
+						<g id="g9426">
+						</g>
+						<g id="g9448">
+						</g>
+						<g id="g9466">
+						</g>
+					</g>
+					<g id="g9510">
+					</g>
+					<g id="g9526">
+					</g>
+					<g id="g9538">
+					</g>
+					<g id="g9556">
+						<g id="g9558">
+							<g id="g9560">
+							</g>
+							<g id="g9572">
+							</g>
+							<g id="Clip-Path: g9586">
+								<g id="g9586">
+									<g id="g9588">
+										<g id="g9592">
+										</g>
+									</g>
+								</g>
+							</g>
+							<g id="Clip-Path: g9636">
+								<g id="g9636">
+								</g>
+							</g>
+							<g id="g9648">
+							</g>
+							<g id="g9668">
+							</g>
+						</g>
+						<g id="g9688">
+						</g>
+					</g>
+					<g id="g9696">
+						<g id="g9698">
+							<g id="g9700">
+							</g>
+							<g id="g9712">
+							</g>
+							<g id="Clip-Path: g9726">
+								<g id="g9726">
+									<g id="g9728">
+										<g id="g9732">
+										</g>
+									</g>
+								</g>
+							</g>
+							<g id="Clip-Path: g9776">
+								<g id="g9776">
+								</g>
+							</g>
+							<g id="g9788">
+							</g>
+							<g id="g9808">
+							</g>
+						</g>
+						<g id="g9828">
+						</g>
+					</g>
+					<g id="g9836">
+						<g id="g9838">
+							<g id="g9840">
+							</g>
+							<g id="g9852">
+							</g>
+							<g id="Clip-Path: g9866">
+								<g id="g9866">
+									<g id="g9868">
+										<g id="g9872">
+										</g>
+									</g>
+								</g>
+							</g>
+							<g id="Clip-Path: g9916">
+								<g id="g9916">
+								</g>
+							</g>
+							<g id="g9928">
+							</g>
+							<g id="g9948">
+							</g>
+						</g>
+						<g id="g9968">
+						</g>
+					</g>
+					<g id="g9976">
+					</g>
+					<g id="g9988">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g10004">
+			<g id="g10026">
+			</g>
+			<g id="g10034">
+				<g id="g10040">
+				</g>
+			</g>
+			<g id="g10054">
+			</g>
+			<g id="g10070">
+			</g>
+		</g>
+		<g id="g10082">
+		</g>
+		<g id="g10094">
+		</g>
+		<g id="g10126">
+			<g id="Clip-Path: g10136">
+				<g id="g10136">
+					<g id="g10138">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g10154">
+			<g id="Clip-Path: g10164">
+				<g id="g10164">
+					<g id="g10166">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g10182">
+			<g id="Clip-Path: g10192">
+				<g id="g10192">
+					<g id="g10194">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g10210">
+			<g id="Clip-Path: g10220">
+				<g id="g10220">
+					<g id="g10222">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g10238">
+			<g id="g10260">
+			</g>
+			<g id="g10268">
+				<g id="g10274">
+				</g>
+			</g>
+			<g id="g10288">
+			</g>
+			<g id="g10304">
+			</g>
+		</g>
+		<g id="g10316">
+			<g id="g10318">
+			</g>
+			<g id="g10328">
+			</g>
+			<g id="g10356">
+			</g>
+			<g id="g10366">
+				<g id="g10368">
+				</g>
+				<g id="g10380">
+					<g id="Clip-Path: g10392">
+						<g id="g10392">
+							<g id="g10394">
+								<g id="g10398">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g10448">
+				</g>
+				<g id="g10470">
+				</g>
+				<g id="g10492">
+				</g>
+				<g id="g10510">
+				</g>
+			</g>
+			<g id="g10538">
+			</g>
+		</g>
+		<g id="g10566">
+		</g>
+		<g id="g10570">
+		</g>
+		<g id="g10574">
+		</g>
+		<g id="g10578">
+		</g>
+		<g id="g10582">
+		</g>
+		<g id="g10586">
+		</g>
+		<g id="g10590">
+		</g>
+		<g id="g10594">
+		</g>
+		<g id="g10598">
+		</g>
+		<g id="g10602">
+		</g>
+		<g id="g10606">
+		</g>
+		<g id="g10610">
+		</g>
+		<g id="g10614">
+		</g>
+		<g id="g10640">
+		</g>
+		<g id="g10644">
+		</g>
+		<g id="g10648">
+		</g>
+		<g id="g10652">
+		</g>
+		<g id="g10656">
+		</g>
+		<g id="g10660">
+		</g>
+		<g id="g10664">
+		</g>
+		<g id="g10668">
+		</g>
+		<g id="g10672">
+		</g>
+		<g id="g10676">
+		</g>
+		<g id="g10680">
+		</g>
+		<g id="g10684">
+		</g>
+		<g id="g10688">
+		</g>
+		<g id="g10728">
+		</g>
+		<g id="g10742">
+		</g>
+		<g id="g10756">
+		</g>
+		<g id="g10770">
+		</g>
+		<g id="g10788">
+			<g id="g10790">
+			</g>
+			<g id="g10802">
+			</g>
+			<g id="g10824">
+			</g>
+			<g id="g10846">
+			</g>
+			<g id="g10864">
+			</g>
+		</g>
+		<g id="g10882">
+			<g id="g10884">
+				<g id="g10886">
+					<g id="g10888">
+					</g>
+					<g id="g10900">
+						<g id="Clip-Path: g10914">
+							<g id="g10914">
+								<g id="g10916">
+									<g id="g10920">
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g id="g10974">
+					</g>
+					<g id="g10994">
+					</g>
+				</g>
+			</g>
+			<g id="g11020">
+				<g id="g11022">
+					<g id="g11024">
+					</g>
+					<g id="g11036">
+						<g id="Clip-Path: g11050">
+							<g id="g11050">
+								<g id="g11052">
+									<g id="g11056">
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g id="g11110">
+					</g>
+					<g id="g11130">
+					</g>
+				</g>
+			</g>
+			<g id="g11158">
+				<g id="g11160">
+					<g id="g11162">
+					</g>
+					<g id="g11174">
+						<g id="Clip-Path: g11188">
+							<g id="g11188">
+								<g id="g11190">
+									<g id="g11194">
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g id="g11248">
+					</g>
+					<g id="g11268">
+					</g>
+				</g>
+				<g id="g11288">
+				</g>
+			</g>
+			<g id="g11296">
+				<g id="g11298">
+					<g id="g11300">
+					</g>
+					<g id="g11312">
+						<g id="Clip-Path: g11326">
+							<g id="g11326">
+								<g id="g11328">
+									<g id="g11332">
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g id="g11386">
+					</g>
+					<g id="g11406">
+					</g>
+				</g>
+				<g id="g11426">
+				</g>
+			</g>
+		</g>
+		<g id="g11470">
+		</g>
+		<g id="g11482">
+		</g>
+		<g id="g11514">
+			<g id="Clip-Path: g11524">
+				<g id="g11524">
+					<g id="g11526">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g11542">
+			<g id="Clip-Path: g11552">
+				<g id="g11552">
+					<g id="g11554">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g11570">
+			<g id="Clip-Path: g11580">
+				<g id="g11580">
+					<g id="g11582">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g11598">
+			<g id="Clip-Path: g11608">
+				<g id="g11608">
+					<g id="g11610">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g11626">
+			<g id="g11628">
+				<g id="g11630">
+				</g>
+				<g id="Clip-Path: g11654">
+					<g id="g11654">
+						<g id="g11656">
+							<g id="g11660">
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g11714">
+				</g>
+				<g id="g11734">
+				</g>
+			</g>
+			<g id="g11754">
+			</g>
+			<g id="g11758">
+			</g>
+			<g id="g11762">
+			</g>
+			<g id="g11766">
+			</g>
+		</g>
+		<g id="g11780">
+			<g id="g11782">
+			</g>
+			<g id="g11792">
+			</g>
+			<g id="g11820">
+			</g>
+			<g id="g11830">
+				<g id="g11832">
+				</g>
+				<g id="g11844">
+					<g id="Clip-Path: g11856">
+						<g id="g11856">
+							<g id="g11858">
+								<g id="g11862">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g11912">
+				</g>
+				<g id="g11934">
+				</g>
+				<g id="g11956">
+				</g>
+				<g id="g11974">
+				</g>
+			</g>
+			<g id="g12002">
+			</g>
+		</g>
+		<g id="g12030">
+		</g>
+		<g id="g12034">
+		</g>
+		<g id="g12038">
+		</g>
+		<g id="g12042">
+		</g>
+		<g id="g12046">
+		</g>
+		<g id="g12050">
+		</g>
+		<g id="g12054">
+		</g>
+		<g id="g12072">
+		</g>
+		<g id="g12076">
+		</g>
+		<g id="g12080">
+		</g>
+		<g id="g12084">
+		</g>
+		<g id="g12088">
+		</g>
+		<g id="g12092">
+		</g>
+		<g id="g12096">
+		</g>
+		<g id="g12370">
+			<g id="g12374">
+				<g id="g12376">
+				</g>
+				<g id="g12388">
+				</g>
+				<g id="g12410">
+				</g>
+				<g id="g12432">
+				</g>
+				<g id="g12450">
+				</g>
+			</g>
+		</g>
+		<g id="g12480">
+			<g id="g12484">
+				<g id="g12486">
+				</g>
+				<g id="g12498">
+				</g>
+				<g id="g12520">
+				</g>
+				<g id="g12542">
+				</g>
+				<g id="g12560">
+				</g>
+			</g>
+		</g>
+		<g id="g12590">
+			<g id="g12592">
+				<g id="g12594">
+				</g>
+				<g id="g12606">
+					<g id="Clip-Path: g12620">
+						<g id="g12620">
+							<g id="g12622">
+								<g id="g12626">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g12680">
+				</g>
+				<g id="g12700">
+				</g>
+			</g>
+			<g id="g12720">
+			</g>
+		</g>
+		<g id="g12728">
+		</g>
+		<g id="g12754">
+		</g>
+		<g id="g12782">
+		</g>
+		<g id="g12794">
+		</g>
+		<g id="g12816">
+		</g>
+		<g id="g12836">
+		</g>
+		<g id="g12850">
+		</g>
+		<g id="g12864">
+		</g>
+		<g id="g12876">
+		</g>
+		<g id="g12888">
+		</g>
+		<g id="g12910">
+		</g>
+		<g id="g12930">
+		</g>
+		<g id="g12944">
+		</g>
+		<g id="g12958">
+		</g>
+		<g id="g12970">
+		</g>
+		<g id="g12982">
+		</g>
+		<g id="g13004">
+		</g>
+		<g id="g13024">
+		</g>
+		<g id="g13038">
+		</g>
+		<g id="g13052">
+		</g>
+		<g id="g13068">
+		</g>
+		<g id="g13094">
+		</g>
+		<g id="g13112">
+		</g>
+		<g id="g13124">
+		</g>
+		<g id="g13156">
+			<g id="g13158">
+			</g>
+			<g id="g13168">
+			</g>
+			<g id="g13196">
+			</g>
+			<g id="g13206">
+				<g id="g13208">
+				</g>
+				<g id="g13220">
+					<g id="Clip-Path: g13232">
+						<g id="g13232">
+							<g id="g13234">
+								<g id="g13238">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g13288">
+				</g>
+				<g id="g13310">
+				</g>
+				<g id="g13332">
+				</g>
+				<g id="g13350">
+				</g>
+			</g>
+			<g id="g13378">
+			</g>
+		</g>
+		<g id="g13406">
+			<g id="Clip-Path: g13416">
+				<g id="g13416">
+					<g id="g13418">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g13434">
+			<g id="Clip-Path: g13444">
+				<g id="g13444">
+					<g id="g13446">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g13462">
+			<g id="Clip-Path: g13472">
+				<g id="g13472">
+					<g id="g13474">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g13490">
+			<g id="Clip-Path: g13500">
+				<g id="g13500">
+					<g id="g13502">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g13518">
+			<g id="g13520">
+			</g>
+			<g id="g13532">
+			</g>
+			<g id="g13554">
+			</g>
+			<g id="g13576">
+			</g>
+			<g id="g13594">
+			</g>
+		</g>
+		<g id="g13612">
+		</g>
+		<g id="g13626">
+		</g>
+		<g id="g13638">
+		</g>
+		<g id="g13670">
+			<g id="g13672">
+			</g>
+			<g id="g13682">
+			</g>
+			<g id="g13710">
+			</g>
+			<g id="g13720">
+				<g id="g13722">
+				</g>
+				<g id="g13734">
+					<g id="Clip-Path: g13746">
+						<g id="g13746">
+							<g id="g13748">
+								<g id="g13752">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g13802">
+				</g>
+				<g id="g13824">
+				</g>
+				<g id="g13846">
+				</g>
+				<g id="g13864">
+				</g>
+			</g>
+			<g id="g13892">
+			</g>
+		</g>
+		<g id="g13920">
+			<g id="Clip-Path: g13930">
+				<g id="g13930">
+					<g id="g13932">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g13948">
+			<g id="Clip-Path: g13958">
+				<g id="g13958">
+					<g id="g13960">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g13976">
+			<g id="Clip-Path: g13986">
+				<g id="g13986">
+					<g id="g13988">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g14004">
+			<g id="Clip-Path: g14014">
+				<g id="g14014">
+					<g id="g14016">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g14032">
+			<g id="g14034">
+			</g>
+			<g id="g14046">
+			</g>
+			<g id="g14068">
+			</g>
+			<g id="g14090">
+			</g>
+			<g id="g14108">
+			</g>
+		</g>
+		<g id="g14126">
+		</g>
+		<g id="g14138">
+		</g>
+		<g id="g14170">
+			<g id="Clip-Path: g14180">
+				<g id="g14180">
+					<g id="g14182">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g14198">
+			<g id="Clip-Path: g14208">
+				<g id="g14208">
+					<g id="g14210">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g14226">
+			<g id="Clip-Path: g14236">
+				<g id="g14236">
+					<g id="g14238">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g14254">
+			<g id="Clip-Path: g14264">
+				<g id="g14264">
+					<g id="g14266">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g14282">
+			<g id="g14284">
+			</g>
+			<g id="g14294">
+			</g>
+			<g id="g14322">
+			</g>
+			<g id="g14332">
+				<g id="g14334">
+				</g>
+				<g id="g14346">
+					<g id="Clip-Path: g14358">
+						<g id="g14358">
+							<g id="g14360">
+								<g id="g14364">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g14414">
+				</g>
+				<g id="g14436">
+				</g>
+				<g id="g14458">
+				</g>
+				<g id="g14476">
+				</g>
+			</g>
+			<g id="g14504">
+			</g>
+		</g>
+		<g id="g14532">
+		</g>
+		<g id="g14536">
+		</g>
+		<g id="g14540">
+		</g>
+		<g id="g14544">
+		</g>
+		<g id="g14548">
+		</g>
+		<g id="g14552">
+		</g>
+		<g id="g14568">
+		</g>
+		<g id="g14572">
+		</g>
+		<g id="g14576">
+		</g>
+		<g id="g14580">
+		</g>
+		<g id="g14584">
+		</g>
+		<g id="g14588">
+		</g>
+		<g id="g14604">
+			<g id="g14606">
+				<g id="g14608">
+				</g>
+				<g id="Clip-Path: g14632">
+					<g id="g14632">
+						<g id="g14634">
+							<g id="g14638">
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g14692">
+				</g>
+				<g id="g14712">
+				</g>
+			</g>
+			<g id="g14732">
+			</g>
+			<g id="g14736">
+			</g>
+			<g id="g14740">
+			</g>
+			<g id="g14744">
+			</g>
+			<g id="g14748">
+			</g>
+			<g id="g14752">
+			</g>
+			<g id="g14756">
+			</g>
+		</g>
+		<g id="g14774">
+			<g id="g14776">
+				<g id="g14778">
+				</g>
+				<g id="g14792">
+				</g>
+				<g id="Clip-Path: g14848">
+					<g id="g14848">
+						<g id="g14850">
+							<g id="g14854">
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g14908">
+				</g>
+				<g id="g14928">
+				</g>
+			</g>
+			<g id="g14948">
+			</g>
+			<g id="g14952">
+			</g>
+			<g id="g14956">
+			</g>
+			<g id="g14960">
+			</g>
+			<g id="g14964">
+			</g>
+			<g id="g14968">
+			</g>
+		</g>
+		<g id="g14984">
+			<g id="g14986">
+				<g id="g14988">
+				</g>
+				<g id="Clip-Path: g15012">
+					<g id="g15012">
+						<g id="g15014">
+							<g id="g15018">
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g15072">
+				</g>
+				<g id="g15092">
+				</g>
+			</g>
+			<g id="g15112">
+			</g>
+			<g id="g15116">
+			</g>
+			<g id="g15120">
+			</g>
+			<g id="g15124">
+			</g>
+			<g id="g15128">
+			</g>
+			<g id="g15132">
+			</g>
+			<g id="g15136">
+			</g>
+		</g>
+		<g id="g15154">
+			<g id="g15156">
+				<g id="g15158">
+				</g>
+				<g id="Clip-Path: g15182">
+					<g id="g15182">
+						<g id="g15184">
+							<g id="g15188">
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g15242">
+				</g>
+				<g id="g15262">
+				</g>
+			</g>
+			<g id="g15282">
+			</g>
+			<g id="g15286">
+			</g>
+			<g id="g15290">
+			</g>
+			<g id="g15294">
+			</g>
+		</g>
+		<g id="g15306">
+		</g>
+		<g id="g15318">
+		</g>
+		<g id="g15350">
+			<g id="Clip-Path: g15360">
+				<g id="g15360">
+					<g id="g15362">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g15378">
+			<g id="Clip-Path: g15388">
+				<g id="g15388">
+					<g id="g15390">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g15406">
+			<g id="Clip-Path: g15416">
+				<g id="g15416">
+					<g id="g15418">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g15434">
+			<g id="Clip-Path: g15444">
+				<g id="g15444">
+					<g id="g15446">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g15462">
+			<g id="g15464">
+			</g>
+			<g id="g15474">
+			</g>
+			<g id="g15502">
+			</g>
+			<g id="g15512">
+				<g id="g15514">
+				</g>
+				<g id="g15526">
+					<g id="Clip-Path: g15538">
+						<g id="g15538">
+							<g id="g15540">
+								<g id="g15544">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g15594">
+				</g>
+				<g id="g15616">
+				</g>
+				<g id="g15638">
+				</g>
+				<g id="g15656">
+				</g>
+			</g>
+			<g id="g15684">
+			</g>
+		</g>
+		<g id="g15712">
+		</g>
+		<g id="g15724">
+		</g>
+		<g id="g15756">
+			<g id="Clip-Path: g15766">
+				<g id="g15766">
+					<g id="g15768">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g15784">
+			<g id="Clip-Path: g15794">
+				<g id="g15794">
+					<g id="g15796">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g15812">
+			<g id="Clip-Path: g15822">
+				<g id="g15822">
+					<g id="g15824">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g15840">
+			<g id="Clip-Path: g15850">
+				<g id="g15850">
+					<g id="g15852">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g15868">
+			<g id="g15870">
+			</g>
+			<g id="g15880">
+			</g>
+			<g id="g15908">
+			</g>
+			<g id="g15918">
+				<g id="g15920">
+				</g>
+				<g id="g15932">
+					<g id="Clip-Path: g15944">
+						<g id="g15944">
+							<g id="g15946">
+								<g id="g15950">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g16000">
+				</g>
+				<g id="g16022">
+				</g>
+				<g id="g16044">
+				</g>
+				<g id="g16062">
+				</g>
+			</g>
+			<g id="g16090">
+			</g>
+		</g>
+		<g id="g16118">
+		</g>
+		<g id="g16130">
+		</g>
+		<g id="g16162">
+			<g id="Clip-Path: g16172">
+				<g id="g16172">
+					<g id="g16174">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g16190">
+			<g id="Clip-Path: g16200">
+				<g id="g16200">
+					<g id="g16202">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g16218">
+			<g id="Clip-Path: g16228">
+				<g id="g16228">
+					<g id="g16230">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g16246">
+			<g id="Clip-Path: g16256">
+				<g id="g16256">
+					<g id="g16258">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g16276">
+			<g id="g16278">
+			</g>
+			<g id="g16288">
+			</g>
+			<g id="g16316">
+			</g>
+			<g id="g16326">
+				<g id="g16328">
+				</g>
+				<g id="g16340">
+					<g id="Clip-Path: g16352">
+						<g id="g16352">
+							<g id="g16354">
+								<g id="g16358">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g16408">
+				</g>
+				<g id="g16430">
+				</g>
+				<g id="g16452">
+				</g>
+				<g id="g16470">
+				</g>
+			</g>
+			<g id="g16498">
+			</g>
+		</g>
+		<g id="g16526">
+		</g>
+		<g id="g16538">
+		</g>
+		<g id="g16570">
+			<g id="Clip-Path: g16580">
+				<g id="g16580">
+					<g id="g16582">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g16598">
+			<g id="Clip-Path: g16608">
+				<g id="g16608">
+					<g id="g16610">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g16626">
+			<g id="Clip-Path: g16636">
+				<g id="g16636">
+					<g id="g16638">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g16654">
+			<g id="Clip-Path: g16664">
+				<g id="g16664">
+					<g id="g16666">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g16684">
+			<g id="g16686">
+			</g>
+			<g id="g16696">
+			</g>
+			<g id="g16724">
+			</g>
+			<g id="g16734">
+				<g id="g16736">
+				</g>
+				<g id="g16748">
+					<g id="Clip-Path: g16760">
+						<g id="g16760">
+							<g id="g16762">
+								<g id="g16766">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g16816">
+				</g>
+				<g id="g16838">
+				</g>
+				<g id="g16860">
+				</g>
+				<g id="g16878">
+				</g>
+			</g>
+			<g id="g16906">
+			</g>
+		</g>
+		<g id="g16934">
+		</g>
+		<g id="g16960">
+			<g clip-path="url(#cp1)" id="Clip-Path: polygon16962">
+				<path d="m1476.3 2438.1h36.1 36.1l-18.3 87-17.8 87-18.3-87z" class="s0" fill-rule="evenodd" id="polygon16962"></path>
+			</g>
+			<g clip-path="url(#cp2)" id="Clip-Path: polygon16964">
+				<path d="m1596.4 2455.4l27.7 23.2 27.7 22.8-69.7 55.3-69.7 55.4 42-78.1z" class="s0" fill-rule="evenodd" id="polygon16964"></path>
+			</g>
+			<g clip-path="url(#cp3)" id="Clip-Path: polygon16966">
+				<path d="m1672.1 2534.5l8.9 34.6 8.9 35.1-88.5 3.9-89 4 80.1-39.1z" class="s0" fill-rule="evenodd" id="polygon16966"></path>
+			</g>
+			<g clip-path="url(#cp4)" id="Clip-Path: polygon16968">
+				<path d="m1428.4 2455.4l-27.7 23.2-27.7 22.8 69.7 55.3 69.7 55.4-42-78.1z" class="s0" fill-rule="evenodd" id="polygon16968"></path>
+			</g>
+			<g clip-path="url(#cp5)" id="Clip-Path: polygon16970">
+				<path d="m1352.2 2534.5l-8.9 34.6-8.9 35.1 89 3.9 89 4-80.1-39.1z" class="s0" fill-rule="evenodd" id="polygon16970"></path>
+			</g>
+		</g>
+		<g id="g16972">
+			<path d="m1367 2628.9c2-18.3 9.9-30.6 21.8-33.1 74.2-15.3 155.2-17.3 247.2 0 11.9 2 19.8 14.8 21.3 33.1 7.9 73.7 7.9 152.8 0 226.9-1.5 17.8-9.4 30.7-21.3 33.2-92 16.8-173 15.3-247.2 0-11.9-2.5-19.8-15.4-21.8-33.2-7.4-74.1-7.4-153.2 0-226.9z" class="s1" fill-rule="evenodd" id="path16974"></path>
+			<path d="m1367 2625.5c2-17.8 9.9-30.7 21.8-33.2 74.2-14.8 155.2-16.8 247.2 0 11.9 2.5 19.8 15.4 21.3 33.2 7.9 74.1 7.9 153.2 0 226.9-1.5 18.3-9.4 31.1-21.3 33.1-92 17.3-173 15.3-247.2 0-11.9-2.5-19.8-14.8-21.8-33.1-7.4-73.7-7.4-152.8 0-226.9z" class="s2" fill-rule="evenodd" id="path16976"></path>
+			<path d="m1368.5 2626.4c2-17.8 9.4-30.1 21.3-32.6 73.2-15.3 154.2-16.8 245.2 0 11.4 2 19.3 14.8 21.3 32.6 7.4 73.2 7.4 151.8 0 225-2 17.8-9.9 30.6-21.3 33.1-91 16.8-172 14.8-245.2 0-11.9-2.5-19.3-15.3-21.3-33.1-7.9-73.2-7.9-151.8 0-225z" class="s3" fill-rule="evenodd" id="path16978"></path>
+			<path d="m1369 2626.9c2-17.8 9.4-30.1 21.3-32.6 73.2-15.3 153.7-16.8 244.2 0 11.9 2 19.3 14.8 21.3 32.6 7.4 73.2 7.4 151.3 0 224-2 17.8-9.4 30.6-21.3 33.1-90.5 16.8-171 14.8-244.2 0-11.9-2.5-19.3-15.3-21.3-33.1-7.9-72.7-7.9-150.8 0-224z" class="s4" fill-rule="evenodd" id="path16980"></path>
+			<path d="m1375 2629.9c1.4-17.8 8.9-29.7 20.2-32.1 70.2-14.9 147.4-16.3 234.4 0 11.3 1.9 18.8 14.3 20.2 32.1 7.5 71.2 7.5 147.3 0 218.5-1.4 17.3-8.9 30.2-20.2 32.2-87 16.3-164.2 14.8-234.4 0-11.3-2.5-18.8-14.9-20.2-32.2-7.5-71.2-7.5-147.3 0-218.5z" class="s5" fill-rule="evenodd" id="path16982"></path>
+		</g>
+		<g id="g16984">
+			<path d="m1385.3 2634.8c1.5-16.3 8.4-28.1 18.8-30.6 64.8-13.9 136-15.3 216.6 0 10.4 2 17.3 14.3 18.8 30.6 6.9 67.8 6.9 140.4 0 208.2-1.5 16.3-8.4 28.7-18.8 30.6-80.6 15.4-151.8 13.9-216.6 0-10.4-2.4-17.3-14.3-18.8-30.6-6.9-67.8-6.9-140.4 0-208.2z" class="s6" fill-rule="evenodd" id="path16986"></path>
+			<path d="m1506 2876.6l4.9 1.5 4.5 2-11.4 1.4-5.9-1.9z" class="s7" fill-rule="evenodd" id="polygon16988"></path>
+			<path d="m1386.8 2636.3c2-16.3 8.4-27.7 18.8-30.1 63.8-13.4 134.5-15.4 213.6 0 10.4 1.9 16.8 13.8 18.3 30.1 6.9 65.8 6.9 137 0 203.2-1.5 16.3-7.9 27.7-18.3 29.7-79.1 15.3-149.8 13.8-213.6 0-10.4-2-16.8-13.4-18.8-29.7-6.4-66.2-6.4-137.4 0-203.2z" class="s7" fill-rule="evenodd" id="path16990"></path>
+			<path d="m1387.3 2636.3c1.5-16.3 8.4-27.7 18.3-29.6 63.8-13.9 134-15.4 213.1 0 10.4 1.9 16.8 13.3 18.8 29.6 6.4 65.8 6.4 136.5 0 202.7-2 15.8-8.4 27.7-18.8 29.7-79.1 14.8-149.3 13.3-213.1 0-9.9-2.5-16.8-13.9-18.3-29.7-6.4-66.2-6.4-136.9 0-202.7z" class="s8" fill-rule="evenodd" id="path16992"></path>
+			<path d="m1384.4 2673.4l3.9 0.5-3.9 3-2.5 2.4v-3.9z" class="s7" fill-rule="evenodd" id="polygon16994"></path>
+			<path d="m1385.3 2820.7l2.5-1.5-2 6.5-2.4-1v-3.5z" class="s7" fill-rule="evenodd" id="polygon16996"></path>
+			<path d="m1640.4 2805.4l-2.4-1 2.4 4.5 2-0.5v-3z" class="s7" fill-rule="evenodd" id="polygon16998"></path>
+			<path d="m1642.9 2729.3l-3 1 3 1.4 1.5-1.4v-2.5z" class="s7" fill-rule="evenodd" id="polygon17000"></path>
+			<path d="m1391.8 2641.3c1.5-15.4 7.9-25.7 17.8-28.2 61.3-12.9 129.5-14.3 205.6 0 9.9 2 16.3 12.8 17.8 28.2 6.5 62.8 6.5 129.5 0 192.3-1.5 15.3-7.9 26.2-17.8 28.2-76.1 14.3-144.3 12.8-205.6 0-9.9-2-16.3-12.9-17.8-28.2-6.5-62.8-6.5-129.5 0-192.3z" class="s9" fill-rule="evenodd" id="path17002"></path>
+			<path d="m1394.2 2641.3c0.5-7.9 3-14.9 6-19.8q4.4-7.4 11.8-8.9c30.2-6.4 61.8-10.4 95-10.4 33.6-0.5 68.7 3 105.8 10.4q7.4 1.5 11.8 8.9c3 4.9 5 11.9 6 19.8 2.9 31.1 4.4 63.7 4.4 96.4 0 32.1-1.5 64.7-4.4 95.9-1 7.9-3 14.8-6 19.8-2.9 4.9-6.9 8.4-11.8 9.4-37.1 6.9-72.2 10.3-105.8 9.8-33.2 0-64.8-3.4-95-9.8-4.9-1-8.9-4.5-11.8-9.4-3-5-5.5-11.9-6-19.8-3.4-31.2-4.9-63.8-4.9-95.9 0-32.7 1.5-65.3 4.9-96.4zm6.5-18.3c-3 4.4-5 10.9-5.5 18.8-2.9 31.1-4.9 63.2-4.9 95.9 0 32.1 2 64.7 4.9 95.9 0.5 7.4 2.5 13.8 5.5 18.8 2.9 4.4 6.9 7.4 11.3 8.4 30.2 6.4 61.8 10.4 95 10.4 33.1 0 68.2-3 105.8-10.4 4.4-1 8.4-4 10.8-8.4 3-5 5-11.4 6-18.8 2.9-31.2 4.4-63.8 4.4-95.9 0-32.7-1.5-64.8-4.4-95.9q-1.5-11.9-6-19.3c-2.4-4.5-6.4-7.4-10.8-8.4-37.6-6.9-72.7-10.4-105.8-10.4q-49.7 0.7-95 10.4c-4.4 1-8.4 3.9-11.3 8.9z" class="s10" fill-rule="evenodd" id="path17004"></path>
+			<path d="m1384.4 2673.4l3.9 0.5-3.9 2.5-2.5 2.9v-3.9z" class="s11" fill-rule="evenodd" id="polygon17006"></path>
+			<path d="m1642.9 2729.3l-3 1 3 0.9 1.5-0.9v-2.5z" class="s11" fill-rule="evenodd" id="polygon17008"></path>
+			<path d="m1640.4 2805.4l-2.4-1 2.4 4h2v-3z" class="s11" fill-rule="evenodd" id="polygon17010"></path>
+			<path d="m1385.3 2820.7l2.5-1.5-2 5-2.4 0.5v-3.5z" class="s11" fill-rule="evenodd" id="polygon17012"></path>
+			<path d="m1506 2876.1l4.9 1 4.5 2.5-11.4 1.4-5.9-1.9z" class="s11" fill-rule="evenodd" id="polygon17014"></path>
+		</g>
+		<g id="g17016">
+			<path d="m1429.3 2583.4c-1.9 14.9-39 67.3-66.2 67.3-0.5 0-2-1-2-1.5 6.9-54.9 14.8-61.3 66.3-67.7 0.5 0 1.4 1.4 1.9 1.9z" class="s12" fill-rule="evenodd" id="path17018"></path>
+			<path d="m1427.4 2581.5c-2 15.3-39.1 67.7-66.3 67.7 6.9-56.9 12.9-61.3 66.3-67.7z" class="s13" fill-rule="evenodd" id="path17020"></path>
+			<path d="m1425.4 2588.4c-7.9 18.3-34.6 53.4-57.4 59.8 6.5-47.5 13.9-53.9 57.4-59.8z" class="s14" fill-rule="evenodd" id="path17022"></path>
+			<path d="m1423.9 2589.4c-7.9 17.8-33.1 50.9-54.9 57.8 6-46 12.9-52.4 54.9-57.8z" class="s15" fill-rule="evenodd" id="path17024"></path>
+			<g clip-path="url(#cp6)" id="Clip-Path: g17026">
+				<g id="g17026">
+					<g id="g17028">
+						<path d="m1421.4 2651.2h-14.3l-28.2-63.3h14.4z" class="s16" fill-rule="evenodd" id="polygon17030"></path>
+						<path d="m1404.6 2651.2h-7.4l-28.2-63.3h7.4z" class="s16" fill-rule="evenodd" id="polygon17032"></path>
+					</g>
+				</g>
+			</g>
+			<path d="m1423.9 2589.4c-7.9 17.8-33.1 50.9-54.9 57.8 6-46 12.9-52.4 54.9-57.8z" class="s17" fill-rule="evenodd" id="path17034"></path>
+			<path d="m1369 2638.8l1.5-4.9v3.4l4-1.5 5.9-1.5-6.4 3-3.5 3-1.5 3.9-0.5-3.4-1.9 0.5z" class="s14" fill-rule="evenodd" id="polygon17036"></path>
+			<path d="m1369 2637.8l1.5-4.4v3.4l4-2 5.9-0.5-6.4 2-4 3.5-1 3.9-0.5-3.4-1.9 1z" class="s18" fill-rule="evenodd" id="polygon17038"></path>
+			<path d="m1419.9 2598.8l-3.9-1.5h-5.4l5.4-1 4.9 1 2 1.5-1.5 1.9z" class="s14" fill-rule="evenodd" id="polygon17040"></path>
+			<path d="m1419.9 2598.3l-3.9-1.5-5.4 0.5 5.9-1.5 4.4 1 2 1.5-1 1.9z" class="s18" fill-rule="evenodd" id="polygon17042"></path>
+		</g>
+		<g id="g17044">
+			<path d="m1429.3 2896.4c-1.9-14.9-39-67.3-66.2-67.3-0.5 0-2 1-2 1.5 6.9 54.9 14.8 61.3 66.3 67.3 0.5 0 1.4-1 1.9-1.5z" class="s12" fill-rule="evenodd" id="path17046"></path>
+			<path d="m1427.4 2897.9c-2-14.9-39.1-67.3-66.3-67.3 6.9 56.9 12.9 61.3 66.3 67.3z" class="s19" fill-rule="evenodd" id="path17048"></path>
+			<path d="m1425.4 2890.9c-7.9-17.8-34.6-52.9-57.4-59.3 6.5 47 13.9 53.9 57.4 59.3z" class="s14" fill-rule="evenodd" id="path17050"></path>
+			<path d="m1423.9 2889.9c-7.9-17.8-33.1-50.9-54.9-57.3 6 45.5 12.9 51.9 54.9 57.3z" class="s20" fill-rule="evenodd" id="path17052"></path>
+			<g clip-path="url(#cp7)" id="Clip-Path: g17054">
+				<g id="g17054">
+					<g id="g17056">
+						<path d="m1366.6 2831.1h14.8l28.2 63.3h-14.4z" class="s16" fill-rule="evenodd" id="polygon17058"></path>
+						<path d="m1383.9 2831.1h6.9l28.7 63.3h-7.5z" class="s16" fill-rule="evenodd" id="polygon17060"></path>
+					</g>
+				</g>
+			</g>
+			<path d="m1423.9 2889.9c-7.9-17.8-33.1-50.9-54.9-57.3 6 45.5 12.9 51.9 54.9 57.3z" class="s17" fill-rule="evenodd" id="path17062"></path>
+			<path d="m1369 2841l1.5 4.9v-3.9l4 2 5.9 1-6.4-2.5-3.5-3-1.5-3.9-0.5 2.9h-1.9z" class="s14" fill-rule="evenodd" id="polygon17064"></path>
+			<path d="m1369 2841.5l1.5 4.9v-3.4l4 2h5.9l-6.4-1.5-4-4-1-3.4-0.5 3.4-1.9-1z" class="s18" fill-rule="evenodd" id="polygon17066"></path>
+			<path d="m1419.9 2881l-3.9 1.5h-5.4l5.4 1 4.9-1 2-1.5-1.5-2.4z" class="s14" fill-rule="evenodd" id="polygon17068"></path>
+			<path d="m1419.9 2881.5l-3.9 1h-5.4l5.9 1.5 4.4-1 2-1.5-1-1.9z" class="s18" fill-rule="evenodd" id="polygon17070"></path>
+		</g>
+		<g id="g17072">
+			<path d="m1594 2583.4c1.9 14.9 39 67.3 66.2 67.3 0.5 0 2-1 2-1.5-6.9-54.9-14.8-61.3-66.3-67.7-0.4 0-1.4 1.4-1.9 1.9z" class="s12" fill-rule="evenodd" id="path17074"></path>
+			<path d="m1595.9 2581.5c2 15.3 39.1 67.7 66.3 67.7-6.9-56.9-12.9-61.3-66.3-67.7z" class="s21" fill-rule="evenodd" id="path17076"></path>
+			<path d="m1598.4 2588.4c7.4 18.3 34.1 53.4 57.4 59.8-7-47.5-13.9-53.9-57.4-59.8z" class="s14" fill-rule="evenodd" id="path17078"></path>
+			<path d="m1599.4 2589.4c7.9 17.8 33.1 50.9 54.9 57.8-5.9-46-12.9-52.4-54.9-57.8z" class="s22" fill-rule="evenodd" id="path17080"></path>
+			<g clip-path="url(#cp8)" id="Clip-Path: g17082">
+				<g id="g17082">
+					<g id="g17084">
+						<path d="m1601.9 2651.2h14.3l28.2-63.3h-14.3z" class="s16" fill-rule="evenodd" id="polygon17086"></path>
+						<path d="m1618.7 2651.2h7.4l28.2-63.3h-6.9z" class="s16" fill-rule="evenodd" id="polygon17088"></path>
+					</g>
+				</g>
+			</g>
+			<path d="m1599.4 2589.4c7.9 17.8 33.1 50.9 54.9 57.8-5.9-46-12.9-52.4-54.9-57.8z" class="s17" fill-rule="evenodd" id="path17090"></path>
+			<path d="m1654.3 2638.8l-1.5-4.9v3.4l-4-1.5-5.9-1.5 6.4 3 3.5 3 1.5 3.9 0.5-3.4 2 0.5z" class="s14" fill-rule="evenodd" id="polygon17092"></path>
+			<path d="m1654.3 2637.8l-1.5-4.4v3.4l-4-2-5.9-0.5 6.4 2 4 3.5 1 3.9 0.5-3.4 2 1z" class="s18" fill-rule="evenodd" id="polygon17094"></path>
+			<path d="m1603.4 2598.8l3.9-1.5h6l-6-1-4.4 1-2 1.5 1 1.9z" class="s14" fill-rule="evenodd" id="polygon17096"></path>
+			<path d="m1603.4 2598.3l3.9-1.5 6 0.5-6.5-1.5-4.4 1-2 1.5 1 1.9z" class="s18" fill-rule="evenodd" id="polygon17098"></path>
+		</g>
+		<g id="g17100">
+			<path d="m1594 2896.4c1.9-14.9 39-67.3 66.2-67.3 0.5 0 2 1 2 1.5-6.9 54.9-14.8 61.3-66.3 67.3-0.4 0-1.4-1-1.9-1.5z" class="s12" fill-rule="evenodd" id="path17102"></path>
+			<path d="m1595.9 2897.9c2-14.9 39.1-67.3 66.3-67.3-6.9 56.9-12.9 61.3-66.3 67.3z" class="s23" fill-rule="evenodd" id="path17104"></path>
+			<path d="m1598.4 2890.9c7.4-17.8 34.1-52.9 57.4-59.3-7 47-13.9 53.9-57.4 59.3z" class="s14" fill-rule="evenodd" id="path17106"></path>
+			<path d="m1599.4 2889.9c7.9-17.8 33.1-50.9 54.9-57.3-5.9 45.5-12.9 51.9-54.9 57.3z" class="s24" fill-rule="evenodd" id="path17108"></path>
+			<g clip-path="url(#cp9)" id="Clip-Path: g17110">
+				<g id="g17110">
+					<g id="g17112">
+						<path d="m1656.8 2831.1h-14.4l-28.7 63.3h14.4z" class="s16" fill-rule="evenodd" id="polygon17114"></path>
+						<path d="m1639.5 2831.1h-7l-28.6 63.3h7.4z" class="s16" fill-rule="evenodd" id="polygon17116"></path>
+					</g>
+				</g>
+			</g>
+			<path d="m1599.4 2889.9c7.9-17.8 33.1-50.9 54.9-57.3-5.9 45.5-12.9 51.9-54.9 57.3z" class="s17" fill-rule="evenodd" id="path17118"></path>
+			<path d="m1654.3 2841l-1.5 4.9v-3.9l-4 2-5.9 1 6.4-2.5 3.5-3 1.5-3.9 0.5 2.9h2z" class="s14" fill-rule="evenodd" id="polygon17120"></path>
+			<path d="m1654.3 2841.5l-1.5 4.9v-3.4l-4 2h-5.9l6.4-1.5 4-4 1-3.4 0.5 3.4 2-1z" class="s18" fill-rule="evenodd" id="polygon17122"></path>
+			<path d="m1603.4 2881l3.9 1.5h6l-6 1-4.4-1-2-1.5 1-2.4z" class="s14" fill-rule="evenodd" id="polygon17124"></path>
+			<path d="m1603.4 2881.5l3.9 1h6l-6.5 1.5-4.4-1-2-1.5 1-1.9z" class="s18" fill-rule="evenodd" id="polygon17126"></path>
+		</g>
+		<g id="g17128">
+			<path d="m1513.9 2502.8c35.6 0 64.3 29.2 64.3 64.8 0 5.9-0.5 12.4-2.5 17.8h-124.1c-1.5-5.4-2.5-11.9-2.5-17.8 0-35.6 28.7-64.8 64.8-64.8z" class="s25" fill-rule="evenodd" id="path17130"></path>
+			<path d="m1513.9 2502.8c35.6 0 64.3 29.2 64.3 64.8v1c0-35.1-29.2-63.8-64.3-63.8-35.6 0-64.3 28.7-64.8 63.8v-1c0-35.6 28.7-64.8 64.8-64.8z" class="s26" fill-rule="evenodd" id="path17132"></path>
+			<path d="m1513.9 2502.8c5.4 0 10.9 1 15.8 2l21.8 35.6 15.8-8.9c6.9 10.4 10.9 22.8 10.9 36.1q0 3 0 5.9l-1 3h-127.1l-0.5-3c-0.5-1.9-0.5-3.9-0.5-5.9 0-13.3 4-25.7 10.9-36.1l15.8 8.9 21.8-35.6c4.9-1 10.3-2 16.3-2z" class="s27" fill-rule="evenodd" id="path17134"></path>
+			<path d="m1475.8 2544.4l38.1-62.3 37.6 62.3 41-22.8-15.3 58.9h-127.1l-15.3-58.9z" class="s28" fill-rule="evenodd" id="polygon17136"></path>
+			<path d="m1475.8 2549.3l38.1-62.3 37.6 62.3 39.5-22.2-13.8 53.4h-127.1l-13.8-53.4z" class="s29" fill-rule="evenodd" id="polygon17138"></path>
+			<path d="m1475.8 2551.3l38.1-62.3 37.6 62.3 39-21.8-13.3 51h-127.1l-13.3-51z" class="s30" fill-rule="evenodd" id="polygon17140"></path>
+			<path d="m1475.8 2551.3l38.1-62.3v91.5h-63.8l-13.3-51z" class="s31" fill-rule="evenodd" id="polygon17142"></path>
+			<path d="m1447.1 2569.1l-6.9-26.7c1-0.5 2.5-0.5 3.5-0.5 7.9 0 13.8 6.4 13.8 13.8 0 6.5-4.4 11.9-10.4 13.4z" class="s29" fill-rule="evenodd" id="path17144"></path>
+			<path d="m1447.1 2568.1l-6.9-26.7c1-0.5 2.5-0.5 3.5-0.5 7.9 0 13.8 6.4 13.8 13.9 0 6.4-4.4 11.8-10.4 13.3z" class="s28" fill-rule="evenodd" id="path17146"></path>
+			<path d="m1579.6 2571.1l-2.4 9.4h-127.1l-2.5-9.4z" class="s28" fill-rule="evenodd" id="polygon17148"></path>
+			<g id="g17150">
+				<path d="m1452.6 2573.5h122.1c4.4 0 8.4 4 8.4 8.4 0 4.5-4 8-8.4 8h-122.1c-4.5 0-7.9-3.5-7.9-8 0-4.4 3.4-8.4 7.9-8.4z" class="s0" fill-rule="evenodd" id="path17152"></path>
+				<path d="m1582.6 2579.5c0 0.5 0.5 1.5 0.5 2.4 0 4.5-3.5 8-7.4 8h-123.6c-4.5 0-7.4-3.5-7.4-8 0-0.9 0-1.9 0-2.4 1 3.4 3.9 5.4 7.4 5.4h123.6c2.9 0 5.9-2 6.9-5.4z" class="s28" fill-rule="evenodd" id="path17154"></path>
+				<path d="m1451.6 2574.5h124.1c2 0 3.4 1 3.4 3 0 1.5-1.4 3-3.4 3h-124.1c-2 0-3-1.5-3-3q0-3 3-3z" class="s29" fill-rule="evenodd" id="path17156"></path>
+			</g>
+			<g id="g17158">
+				<path d="m1513.9 2536.5c7.4 0 13.8 6.4 13.8 13.8 0 7.4-6.4 13.8-13.8 13.8-7.9 0-13.9-6.4-13.9-13.8 0-7.4 6-13.8 13.9-13.8z" class="s29" fill-rule="evenodd" id="path17160"></path>
+				<path d="m1513.9 2535.5c7.4 0 13.8 6.4 13.8 13.8 0 7.4-6.4 13.9-13.8 13.9-7.9 0-13.9-6.5-13.9-13.9 0-7.4 6-13.8 13.9-13.8z" class="s28" fill-rule="evenodd" id="path17162"></path>
+				<g id="g17164">
+					<path d="m1513.9 2537c6.4 0 11.8 5.4 11.8 12.3 0 6.9-5.4 12.4-11.8 12.4-6.9 0-11.9-5.5-11.9-12.4 0-6.9 5-12.3 11.9-12.3z" class="s32" fill-rule="evenodd" id="path17166"></path>
+					<path d="m1513.9 2537c6.4 0 11.8 5.4 11.8 11.8 0 6.4-5.4 11.9-11.8 11.9-6.9 0-11.9-5.5-11.9-11.9 0-6.4 5-11.8 11.9-11.8z" class="s33" fill-rule="evenodd" id="path17168"></path>
+					<path d="m1513.9 2537.5c6.4 0 11.4 4.9 11.4 11.3 0 6.4-5 11.9-11.4 11.9-6.4 0-11.9-5.5-11.9-11.9 0-6.4 5.5-11.3 11.9-11.3z" class="s34" fill-rule="evenodd" id="path17170"></path>
+					<path d="m1508.9 2538.9c4-1.9 8.4-1 9.9 2 1.5 3-1 6.9-4.9 8.9-4.5 2-8.9 1-9.9-2.5-1.5-2.9 1-6.9 4.9-8.4z" class="s35" fill-rule="evenodd" id="path17172"></path>
+					<path d="m1508.9 2539.4c2.5-1 5-0.5 6 1.5 0.5 2-0.5 4.5-3.5 5.4-2.5 1-4.9 0.5-5.9-1.4-0.5-2 0.5-4 3.4-5.5z" class="s33" fill-rule="evenodd" id="path17174"></path>
+					<path d="m1523.8 2542.9c1 1.5 1.5 3.9 1.5 5.9 0 6.4-5 11.9-11.4 11.9-5.5 0-9.9-3.5-11.4-7.9 2 2.9 5.9 5.4 9.9 5.4 6.4 0 11.9-5.4 11.9-11.9 0-1.4-0.5-2.4-0.5-3.4z" class="s36" fill-rule="evenodd" id="path17176"></path>
+				</g>
+			</g>
+			<g id="g17178">
+				<path d="m1444.2 2542.9c4.9-1 10.4 3.4 11.3 9.9 1 6.4-1.9 12.3-7.4 13.3-4.9 1-9.9-3.4-11.3-9.9-1-6.4 1.9-12.3 7.4-13.3z" class="s33" fill-rule="evenodd" id="path17180"></path>
+				<path d="m1444.2 2542.9c4.9-1 9.9 3.4 11.3 9.9 1 6.4-2.4 12.3-7.4 13.3-4.9 0.5-9.9-3.9-10.8-9.9-1.5-6.4 1.9-12.3 6.9-13.3z" class="s34" fill-rule="evenodd" id="path17182"></path>
+				<path d="m1440.7 2545.4c3-2.5 6.4-2 7.9 0.5 1.5 2.9 0.5 6.9-2.4 9.3-3 2.5-6.5 2-8-0.9-1.4-2.5-0.5-7 2.5-8.9z" class="s35" fill-rule="evenodd" id="path17184"></path>
+				<path d="m1440.7 2545.9c1.5-1.5 4-1 5 0.4 0.9 2 0 4.5-1.5 6-2 1.5-4 1-5-0.5-1-2-0.5-4.5 1.5-5.9z" class="s33" fill-rule="evenodd" id="path17186"></path>
+				<path d="m1452.6 2546.8q2.2 2.3 2.9 6c1 6.4-2.4 12.3-7.4 13.3-3.9 0.5-7.9-2-9.9-6.4 2 3 5.5 4.4 8.4 4 5.5-1 8.5-7 7.5-13.4-0.5-1-1-2.5-1.5-3.5z" class="s36" fill-rule="evenodd" id="path17188"></path>
+			</g>
+			<path d="m1580.1 2569.1l7-26.7c-1-0.5-2-0.5-3.5-0.5-7.4 0-13.9 6.4-13.9 13.8 0 6.5 4.5 11.9 10.4 13.4z" class="s29" fill-rule="evenodd" id="path17190"></path>
+			<path d="m1580.6 2568.1l6.9-26.7c-1.4-0.5-2.4-0.5-3.9-0.5-7.4 0-13.9 6.4-13.9 13.9 0 6.4 4.5 11.8 10.9 13.3z" class="s28" fill-rule="evenodd" id="path17192"></path>
+			<g id="g17194">
+				<path d="m1583.6 2542.9c-5.4-1-10.4 3.4-11.4 9.9-1.5 6.4 2 12.3 6.9 13.3 5.5 1 10.4-3.4 11.4-9.9 1.5-6.4-2-12.3-6.9-13.3z" class="s33" fill-rule="evenodd" id="path17196"></path>
+				<path d="m1583.6 2542.9c-5.4-1-10.4 3.4-11.4 9.9-1 6.4 2 12.3 6.9 13.3 5 0.5 10.4-3.9 11.4-9.9 1-6.4-2-12.3-6.9-13.3z" class="s34" fill-rule="evenodd" id="path17198"></path>
+				<path d="m1587.1 2545.4c-3-2.5-7-2-8.5 0.5-1.4 2.9-0.4 6.9 2.5 9.3 3 2.5 6.4 2 7.9-0.9 2-2.5 0.5-7-1.9-8.9z" class="s35" fill-rule="evenodd" id="path17200"></path>
+				<path d="m1587.1 2545.9c-2-1.5-4-1-5 0.4-1 2-0.5 4.5 1.5 6 1.5 1.5 3.9 1 4.9-0.5 1-2 0-4.5-1.4-5.9z" class="s33" fill-rule="evenodd" id="path17202"></path>
+				<path d="m1574.7 2546.8c-1.5 1.5-2 3.5-2.5 6-1 6.4 2 12.3 6.9 13.3 4 0.5 8-2 10.4-6.4-2.4 3-5.4 4.4-8.9 4-4.9-1-8.4-7-6.9-13.4 0-1 0.5-2.5 1-3.5z" class="s36" fill-rule="evenodd" id="path17204"></path>
+			</g>
+		</g>
+		<g id="g17206">
+			<g id="g17208">
+				<path d="m1620.7 2584.9h-38.6v43h42v-40c0-1.5-1.5-3-3.4-3z" class="s37" fill-rule="evenodd" id="path17210"></path>
+				<path d="m1620.7 2586.4h-38.6v43h42v-40c0-2-1.5-3-3.4-3z" class="s38" fill-rule="evenodd" id="path17212"></path>
+				<path d="m1620.7 2586.4h-38.6v0.5h40.5c-0.4-0.5-0.9-0.5-1.9-0.5z" class="s39" fill-rule="evenodd" id="path17214"></path>
+				<path d="m1616.7 2590.8h-34.6v33.7h37.6v-31.2c0-1.5-1.5-2.5-3-2.5z" class="s40" fill-rule="evenodd" id="path17216"></path>
+			</g>
+			<g id="g17218">
+				<path d="m1623.6 2587.9c-0.5-1-1.4-1.5-2.9-1 1.5 0 1.9 1 2.4 2z" class="s39" fill-rule="evenodd" id="path17220"></path>
+				<path d="m1624.1 2590.3v-0.9c0-1-0.5-3-2.4-3 1.4 1 1.4 3.9 0.5 4.4z" class="s37" fill-rule="evenodd" id="path17222"></path>
+				<path d="m1621.2 2591.3h-19.8c-1.5 0-3 1-3 3v44.5h25.7v-41.5-6-3.4c0 1.5-1.5 2.9-2.9 3.4z" class="s37" fill-rule="evenodd" id="path17224"></path>
+				<path d="m1621.2 2592.3h-19.8c-1.5 0-3 1.5-3 3.5v44.5h25.7v-41.5-6.5-2.9c0 1.4-1.5 2.9-2.9 2.9z" class="s41" fill-rule="evenodd" id="path17226"></path>
+				<path d="m1598.9 2593.8c0.5-1 1.5-1.5 3-1-1.5 0-2 1-2.5 2z" class="s39" fill-rule="evenodd" id="path17228"></path>
+				<path d="m1621.2 2592.3h-19.8c-0.5 0-1 0.5-1.5 0.5h21.3c1 0 2.4-1 2.9-2v-1.4c0 1.4-1.5 2.9-2.9 2.9z" class="s39" fill-rule="evenodd" id="path17230"></path>
+				<path d="m1677 2597.3h-1.5-74.1c-1.5 0-3-1.5-3-3v3 5.4 36.1c0 1.5 1.5 3 3 3h74.1v1.4h1.5v-1.4l-20.2-22.8 18.7-20.2h1.5z" class="s37" fill-rule="evenodd" id="path17232"></path>
+				<path d="m1677 2598.8h-75.6c-1.5 0-3-1.5-3-3v3 5.4 36.1c0 1.5 1.5 2.9 3 2.9h75.6l-20.2-23.2z" class="s42" fill-rule="evenodd" id="path17234"></path>
+				<path d="m1677 2598.8h-75.6c-1.5 0-3-1.5-3-3v2c0.5 1 1.5 1.4 2.5 1.4h75.6z" class="s39" fill-rule="evenodd" id="path17236"></path>
+				<path d="m1664.2 2603.2h-63.3c-1.5 0-2.5-1-2.5-2.5v2.5 4.5 27.6c0 1.5 1 2.5 2.5 2.5h63.3l-15.8-17.8z" class="s43" fill-rule="evenodd" id="path17238"></path>
+				<path d="m1598.4 2595.8c0-1 0.5-3 2-3-1 0.5-1 3.5 0 4.5-0.5-0.5-1.5-1-2-1.5z" class="s37" fill-rule="evenodd" id="path17240"></path>
+				<path d="m1600.4 2599.7c-0.5 0-0.5 0.5-0.5 0.5v41.6c0 0 0 0.5 0.5 0.5 0.5 0 1-0.5 1-0.5v-41.6c0 0-0.5-0.5-1-0.5z" class="s16" fill-rule="evenodd" id="path17242"></path>
+				<path d="m1677 2643.2h-0.5l-20.2-22.7 0.5-0.5z" class="s39" fill-rule="evenodd" id="polygon17244"></path>
+			</g>
+			<g id="g17246">
+				<path d="m1403.6 2584.9h39.1v43h-42v-40c0-1.5 1.5-3 2.9-3z" class="s37" fill-rule="evenodd" id="path17248"></path>
+				<path d="m1403.6 2586.4h39.1v43h-42v-40c0-2 1.5-3 2.9-3z" class="s44" fill-rule="evenodd" id="path17250"></path>
+				<path d="m1403.6 2586.4h39.1v0.5h-40.5c0.4-0.5 0.9-0.5 1.4-0.5z" class="s39" fill-rule="evenodd" id="path17252"></path>
+				<path d="m1408.1 2590.8h34.6v33.7h-37.6v-31.2c0-1.5 1.5-2.5 3-2.5z" class="s45" fill-rule="evenodd" id="path17254"></path>
+			</g>
+			<g id="g17256">
+				<g id="g17258">
+					<path d="m1441.7 2580.5h140.9c5.9 0 10.9 4.9 10.9 10.8v30.2c0 5.9-5 11.4-10.9 11.4h-140.9c-5.9 0-10.9-5.5-10.9-11.4v-30.2c0-5.9 5-10.8 10.9-10.8z" class="s1" fill-rule="evenodd" id="path17260"></path>
+					<path d="m1441.7 2578h140.9c5.9 0 10.9 4.9 10.9 10.9v30.1c0 6.5-5 11.4-10.9 11.4h-140.9c-5.9 0-10.9-4.9-10.9-11.4v-30.1c0-6 5-10.9 10.9-10.9z" class="s2" fill-rule="evenodd" id="path17262"></path>
+					<path d="m1442.2 2579h139.9c5.9 0 10.9 4.4 10.9 10.4v29.1c0 6-5 10.9-10.9 10.9h-139.9c-5.9 0-10.9-4.9-10.9-10.9v-29.1c0-6 5-10.4 10.9-10.4z" class="s3" fill-rule="evenodd" id="path17264"></path>
+					<path d="m1442.2 2579h139.4c5.9 0 10.9 4.9 10.9 10.9v28.6c0 6-5 10.9-10.9 10.9h-139.4c-5.9 0-10.4-4.9-10.4-10.9v-28.6c0-6 4.5-10.9 10.4-10.9z" class="s4" fill-rule="evenodd" id="path17266"></path>
+					<path d="m1443.2 2580.5h137.9c5.5 0 9.9 4.4 9.9 9.8v27.2c0 5.5-4.4 10.4-9.9 10.4h-137.9c-5.5 0-9.9-4.9-9.9-10.4v-27.2c0-5.4 4.4-9.8 9.9-9.8z" class="s1" fill-rule="evenodd" id="path17268"></path>
+				</g>
+				<g id="g17270">
+					<path d="m1443.7 2581.5h136.9c5 0 9.4 4.4 9.4 9.3v26.2c0 5.5-4.4 9.9-9.4 9.9h-136.9c-5.5 0-9.9-4.4-9.9-9.9v-26.2c0-4.9 4.4-9.3 9.9-9.3z" class="s18" fill-rule="evenodd" id="path17272"></path>
+					<path d="m1444.2 2581.9h135.9c5 0 9.4 4.5 9.4 9.4v25.7c0 5-4.4 9.4-9.4 9.4h-135.9c-5.5 0-9.4-4.4-9.4-9.4v-25.7c0-4.9 3.9-9.4 9.4-9.4z" class="s46" fill-rule="evenodd" id="path17274"></path>
+					<path d="m1580.1 2581.9c4.5 0 8.9 4 8.9 8.9l-77.1 13.4-75.6-17.8c-1 1.5-1.5 3.5-1.5 4.9l77.1 12.9-73.7-19.8c1.5-1.5 4-2.5 6-2.5l67.7 22.3z" class="s47" fill-rule="evenodd" id="path17276"></path>
+					<path d="m1445.7 2583.9h132.5c2.4 0 4.4 1 6.4 2.5 1.5 1.5 2.5 3.5 2.5 5.9v22.3c0 2-1 4.4-2.5 5.9-2 1.5-4 2.5-6.4 2.5h-132.5c-2.5 0-4.5-1-6-2.5-1.5-1.5-2.4-3.9-2.4-5.9v-22.3c0-2.4 0.9-4.4 2.4-5.9 1.5-1.5 3.5-2.5 6-2.5zm132.5 0.5h-132.5c-2 0-4 1-5.5 2.5-1.5 1.5-2.5 3.4-2.5 5.4v22.3c0 2 1 3.9 2.5 5.4 1.5 1.5 3.5 2.5 5.5 2.5h132.5c2.4 0 4.4-1 5.9-2.5 1-1.5 2-3.4 2-5.4v-22.3c0-2-1-3.9-2-5.4-1.5-1.5-3.5-2.5-5.9-2.5z" class="s14" fill-rule="evenodd" id="path17278"></path>
+					<path d="m1445.7 2584.4h132.5c4.4 0 8.4 3.5 8.4 7.9v22.3c0 4.4-4 7.9-8.4 7.9h-132.5c-4.5 0-8-3.5-8-7.9v-22.3c0-4.4 3.5-7.9 8-7.9z" class="s48" fill-rule="evenodd" id="path17280"></path>
+					<g clip-path="url(#cp10)" id="Clip-Path: g17282">
+						<g id="g17282">
+							<g id="g17284">
+								<path d="m1512.9 2612.6c43 0 78.1 4 78.1 8.9 0 4.9-35.1 8.9-78.1 8.9-43.5 0-78.6-4-78.6-8.9 0-4.9 35.1-8.9 78.6-8.9z" class="s17" fill-rule="evenodd" id="path17286"></path>
+								<g id="g17288">
+									<path d="m1512.9 2613.1c41.5 0 75.6 3.5 75.6 8.4 0 4.9-34.1 8.9-75.6 8.9-42 0-76.1-4-76.1-8.9 0-4.9 34.1-8.4 76.1-8.4z" class="s49" fill-rule="evenodd" id="path17290"></path>
+									<path d="m1512.9 2613.1c40.5 0 73.2 3.9 73.2 8.4 0 4.9-32.7 8.4-73.2 8.4-40.5 0-73.7-3.5-73.7-8.4 0-4.5 33.2-8.4 73.7-8.4z" class="s50" fill-rule="evenodd" id="path17292"></path>
+									<path d="m1512.9 2613.6c39 0 70.7 3.4 70.7 7.9 0 4.4-31.7 8.4-70.7 8.4-39.1 0-71.2-4-71.2-8.4 0-4.5 32.1-7.9 71.2-7.9z" class="s51" fill-rule="evenodd" id="path17294"></path>
+									<path d="m1512.9 2613.6c37.6 0 68.2 3.4 68.2 7.9 0 4.4-30.6 7.9-68.2 7.9-38.1 0-68.2-3.5-68.2-7.9 0-4.5 30.1-7.9 68.2-7.9z" class="s52" fill-rule="evenodd" id="path17296"></path>
+									<path d="m1512.9 2614.1c36.1 0 65.7 3.4 65.7 7.4 0 4.4-29.6 7.4-65.7 7.4-36.6 0-65.8-3-65.8-7.4 0-4 29.2-7.4 65.8-7.4z" class="s53" fill-rule="evenodd" id="path17298"></path>
+									<path d="m1512.9 2614.1c34.6 0 63.3 3.4 63.3 7.4 0 4-28.7 7.4-63.3 7.4-35.1 0-63.3-3.4-63.3-7.4 0-4 28.2-7.4 63.3-7.4z" class="s54" fill-rule="evenodd" id="path17300"></path>
+									<path d="m1512.9 2628.4c-33.6 0-60.8-3.1-60.8-6.9 0-3.8 27.2-6.9 60.8-6.9 33.6 0 60.8 3.1 60.8 6.9 0 3.8-27.2 6.9-60.8 6.9z" class="s55" fill-rule="evenodd" id="path17302"></path>
+									<path d="m1512.9 2615.1c32.1 0 58.3 2.9 58.3 6.4 0 4-26.2 6.9-58.3 6.9-32.1 0-58.3-2.9-58.3-6.9 0-3.5 26.2-6.4 58.3-6.4z" class="s56" fill-rule="evenodd" id="path17304"></path>
+									<path d="m1512.9 2615.1c30.6 0 55.9 2.9 55.9 6.4 0 3.5-25.3 6.4-55.9 6.4-31.2 0-55.9-2.9-55.9-6.4 0-3.5 24.7-6.4 55.9-6.4z" class="s57" fill-rule="evenodd" id="path17306"></path>
+									<path d="m1512.9 2615.6c29.2 0 53.4 2.4 53.4 5.9 0 3.5-24.2 6.4-53.4 6.4-29.7 0-53.4-2.9-53.4-6.4 0-3.5 23.7-5.9 53.4-5.9z" class="s58" fill-rule="evenodd" id="path17308"></path>
+									<path d="m1512.9 2615.6c28.2 0 50.9 2.9 50.9 5.9 0 3.5-22.7 5.9-50.9 5.9-28.2 0-50.9-2.4-50.9-5.9 0-3 22.7-5.9 50.9-5.9z" class="s59" fill-rule="evenodd" id="path17310"></path>
+									<path d="m1512.9 2626.9c-26.8 0-48.5-2.4-48.5-5.4 0-3 21.7-5.4 48.5-5.4 26.8 0 48.4 2.4 48.4 5.4 0 3-21.6 5.4-48.4 5.4z" class="s60" fill-rule="evenodd" id="path17312"></path>
+									<path d="m1512.9 2616.6c25.2 0 46 1.9 46 4.9 0 3-20.8 5.4-46 5.4-25.7 0-46-2.4-46-5.4 0-3 20.3-4.9 46-4.9z" class="s61" fill-rule="evenodd" id="path17314"></path>
+									<path d="m1512.9 2616.6c23.7 0 43.5 2.4 43.5 4.9 0 3-19.8 4.9-43.5 4.9-24.2 0-43.5-1.9-43.5-4.9 0-2.5 19.3-4.9 43.5-4.9z" class="s62" fill-rule="evenodd" id="path17316"></path>
+									<path d="m1512.9 2617c22.2 0 41 2 41 4.5 0 2.5-18.8 4.9-41 4.9-22.7 0-41-2.4-41-4.9 0-2.5 18.3-4.5 41-4.5z" class="s63" fill-rule="evenodd" id="path17318"></path>
+									<path d="m1512.9 2617c21.3 0 38.1 2 38.1 4.5 0 2.5-16.8 4.4-38.1 4.4-21.3 0-38.6-1.9-38.6-4.4 0-2.5 17.3-4.5 38.6-4.5z" class="s64" fill-rule="evenodd" id="path17320"></path>
+									<path d="m1512.9 2617.5c19.8 0 35.6 2 35.6 4 0 2.5-15.8 4.4-35.6 4.4-19.8 0-36.1-1.9-36.1-4.4 0-2 16.3-4 36.1-4z" class="s65" fill-rule="evenodd" id="path17322"></path>
+									<path d="m1512.9 2617.5c18.3 0 33.1 2 33.1 4 0 2-14.8 4-33.1 4-18.8 0-33.6-2-33.6-4 0-2 14.8-4 33.6-4z" class="s66" fill-rule="evenodd" id="path17324"></path>
+									<path d="m1512.9 2618c16.8 0 30.6 1.5 30.6 3.5 0 2-13.8 3.5-30.6 3.5-17.3 0-31.2-1.5-31.2-3.5 0-2 13.9-3.5 31.2-3.5z" class="s67" fill-rule="evenodd" id="path17326"></path>
+									<path d="m1512.9 2618.5c15.8 0 28.2 1.5 28.2 3 0 2-12.4 3.5-28.2 3.5-15.8 0-28.7-1.5-28.7-3.5 0-1.5 12.9-3 28.7-3z" class="s68" fill-rule="evenodd" id="path17328"></path>
+								</g>
+								<path d="m1512.9 2624.5c-14.5 0-26.2-1.4-26.2-3 0-1.6 11.7-3 26.2-3 14.5 0 26.2 1.4 26.2 3 0 1.6-11.7 3-26.2 3z" class="s14" fill-rule="evenodd" id="ellipse17330"></path>
+							</g>
+						</g>
+					</g>
+					<path d="m1445.7 2584.4h132.5c4.4 0 8.4 3.5 8.4 7.9v22.3c0 4.4-4 7.9-8.4 7.9h-132.5c-4.5 0-8-3.5-8-7.9v-22.3c0-4.4 3.5-7.9 8-7.9z" class="s17" fill-rule="evenodd" id="path17332"></path>
+					<path d="m1586.1 2603.7c-25.3-4.9-100.9-2-118.2 0.5-4.9-4.5-10.4-7.9-15.3-11.9l-1-0.5 0.5-0.5c3-1.9 5.9-4.4 8.9-6.4h116.7c4.4 0 8.4 3.5 8.4 7.4zm-119.7 0.5c-11.8 1.5-21.2 2.5-28.2-0.5v-1c4-3.4 8.4-6.9 12.9-10.3l1 0.5c4.9 3.9 9.9 7.4 14.3 11.3zm-28.2-2.9v-8.9c0-2.5 1.5-5 3.5-6.5 3 2 5.9 4 8.4 6-3.9 2.9-7.9 6.4-11.9 9.4zm4.5-15.9c1-0.5 2.5-0.5 3.5-0.5h13.3c-3 2-5.4 4-7.9 6l-0.5 0.5c-3-2-5.4-4-8.4-6z" class="s69" fill-rule="evenodd" id="path17334"></path>
+				</g>
+				<path d="m1550 2585.4l1.9-1.5 0.5-2h1l-1 2.5-1.9 1.5v1.5l-1-1.5-4.5-1-1.9-3h0.9l1.5 2z" class="s14" fill-rule="evenodd" id="polygon17336"></path>
+				<g id="g17338">
+					<path d="m1439.2 2578h6.5v9.4c0 2.9-2.5 5.4-5.5 5.4h-10.9v-4.9c0-5.5 4.5-9.9 9.9-9.9z" class="s1" fill-rule="evenodd" id="path17340"></path>
+					<path d="m1439.2 2577h5.5l1 1v7.9c0 3.5-2.5 5.9-5.5 5.9h-10.9v-4.9c0-5.4 4.5-9.9 9.9-9.9z" class="s2" fill-rule="evenodd" id="path17342"></path>
+					<path d="m1445.7 2578v7.9c0 3.5-2.5 5.9-5.5 5.9h-9.9v-3.9c0-5.5 4.5-9.9 9.9-9.9z" class="s4" fill-rule="evenodd" id="path17344"></path>
+					<path d="m1440.7 2590.3c-1.6 0-3-1.3-3-2.9 0-1.7 1.4-3 3-3 1.7 0 3 1.3 3 3 0 1.6-1.3 2.9-3 2.9z" class="s3" fill-rule="evenodd" id="circle17346"></path>
+					<path d="m1430.8 2595.8l-1.5-1.5v-2.5h1.5z" class="s1" fill-rule="evenodd" id="polygon17348"></path>
+					<path d="m1429.3 2591.8v1l1-1-0.5-0.5z" class="s2" fill-rule="evenodd" id="polygon17350"></path>
+					<path d="m1430.3 2593.8l1-1h-1z" class="s1" fill-rule="evenodd" id="polygon17352"></path>
+					<path d="m1445.7 2578h-5.5c-5.4 0-9.9 4.4-9.9 9.9v3.9-3.9c0-5.5 4.5-9.9 9.9-9.9z" class="s3" fill-rule="evenodd" id="path17354"></path>
+					<path d="m1440.7 2589.9c-1.6 0-3-1.4-3-3 0-1.7 1.4-3 3-3 1.7 0 3 1.3 3 3 0 1.6-1.3 3-3 3z" class="s1" fill-rule="evenodd" id="circle17356"></path>
+					<path d="m1440.7 2589.4c-1.1 0-2-0.9-2-2 0-1.1 0.9-2 2-2 1.1 0 2 0.9 2 2 0 1.1-0.9 2-2 2z" class="s2" fill-rule="evenodd" id="circle17358"></path>
+				</g>
+				<g id="g17360">
+					<path d="m1585.1 2578h-6.9v9.4c0 2.9 2.9 5.4 5.9 5.4h10.9v-4.9c0-5.5-4.5-9.9-9.9-9.9z" class="s1" fill-rule="evenodd" id="path17362"></path>
+					<path d="m1585.1 2577h-5.5l-1.4 1v7.9c0 3.5 2.9 5.9 5.9 5.9h10.9v-4.9c0-5.4-4.5-9.9-9.9-9.9z" class="s2" fill-rule="evenodd" id="path17364"></path>
+					<path d="m1578.6 2578h-0.4v7.9c0 3.5 2.9 5.9 5.9 5.9h9.9v-3.9c0-5.5-4.5-9.9-9.9-9.9z" class="s4" fill-rule="evenodd" id="path17366"></path>
+					<path d="m1583.6 2590.3c-1.7 0-3-1.3-3-2.9 0-1.7 1.3-3 3-3 1.6 0 3 1.3 3 3 0 1.6-1.4 2.9-3 2.9z" class="s3" fill-rule="evenodd" id="circle17368"></path>
+					<path d="m1593.5 2595.8l1.5-1.5v-2.5h-1.5z" class="s1" fill-rule="evenodd" id="polygon17370"></path>
+					<path d="m1595 2591.8v1l-1-1 0.5-0.5z" class="s2" fill-rule="evenodd" id="polygon17372"></path>
+					<path d="m1594 2593.8l-1.5-1h1.5z" class="s1" fill-rule="evenodd" id="polygon17374"></path>
+					<path d="m1578.6 2578h-0.4 5.9c4.9 0 9.4 4.4 9.4 9.9v3.9h0.5v-3.9c0-5.5-4.5-9.9-9.9-9.9z" class="s3" fill-rule="evenodd" id="path17376"></path>
+					<path d="m1583.6 2589.9c-1.7 0-3-1.4-3-3 0-1.7 1.3-3 3-3 1.6 0 3 1.3 3 3 0 1.6-1.4 3-3 3z" class="s1" fill-rule="evenodd" id="circle17378"></path>
+					<path d="m1583.6 2589.4c-1.1 0-2-0.9-2-2 0-1.1 0.9-2 2-2 1.1 0 2 0.9 2 2 0 1.1-0.9 2-2 2z" class="s2" fill-rule="evenodd" id="circle17380"></path>
+				</g>
+				<g id="g17382">
+					<path d="m1439.2 2633.4h4l1.5-2v-10.4c-1-1.5-2.5-2.5-4.5-2.5h-7.4-2.5l-1 1v4c0 5.4 4.5 9.9 9.9 9.9z" class="s1" fill-rule="evenodd" id="path17384"></path>
+					<path d="m1439.2 2631.4h5.5l1-1v-7.9c0-3.5-2.5-5.9-5.5-5.9h-7.4-2.5l-1 1.4v3.5c0 5.4 4.5 9.9 9.9 9.9z" class="s2" fill-rule="evenodd" id="path17386"></path>
+					<path d="m1445.7 2630.4v-7.9c0-3.5-2.5-5.9-5.5-5.9h-7.4-2.5v3.9c0 5.4 4.5 9.9 9.9 9.9z" class="s4" fill-rule="evenodd" id="path17388"></path>
+					<path d="m1440.7 2624.5c1.5 0 3-1 3-3 0-1.5-1.5-2.5-3-2.5-1.5 0-3 1-3 2.5 0 2 1.5 3 3 3z" class="s3" fill-rule="evenodd" id="path17390"></path>
+					<path d="m1445.7 2630.4h-5.5c-5.4 0-9.9-4.5-9.9-9.9v-3.9 3.9c0 5.4 4.5 9.9 9.9 9.9z" class="s3" fill-rule="evenodd" id="path17392"></path>
+					<path d="m1440.7 2624.5c-1.6 0-3-1.4-3-3 0-1.6 1.4-3 3-3 1.7 0 3 1.4 3 3 0 1.6-1.3 3-3 3z" class="s1" fill-rule="evenodd" id="path17394"></path>
+					<path d="m1440.7 2624c-1.1 0-2-0.9-2-2 0-1.1 0.9-2 2-2 1.1 0 2 0.9 2 2 0 1.1-0.9 2-2 2z" class="s2" fill-rule="evenodd" id="path17396"></path>
+					<path d="m1445.7 2630.4v-7.9c0-3.5-2.5-5.9-5.5-5.9h-7.4-2.5v0.4h2 7.4c3.5 0 6 2.5 6 5.5z" class="s3" fill-rule="evenodd" id="path17398"></path>
+				</g>
+				<g id="g17400">
+					<path d="m1585.1 2633.4h-4l-1.5-2v-10.4c1-1.5 2.5-2.5 4.5-2.5h7.4 2.5l1 1v4c0 5.4-4.5 9.9-9.9 9.9z" class="s1" fill-rule="evenodd" id="path17402"></path>
+					<path d="m1585.1 2631.4h-5.5l-1.4-1v-7.9c0-3.5 2.9-5.9 5.9-5.9h7.4 2.5l1 1.4v3.5c0 5.4-4.5 9.9-9.9 9.9z" class="s2" fill-rule="evenodd" id="path17404"></path>
+					<path d="m1578.6 2630.4h-0.4v-7.9c0-3.5 2.9-5.9 5.9-5.9h7.4 2.5v3.9c0 5.4-4.5 9.9-9.9 9.9z" class="s4" fill-rule="evenodd" id="path17406"></path>
+					<path d="m1583.6 2624.5c-1.5 0-3-1-3-3 0-1.5 1.5-2.5 3-2.5 1.5 0 3 1 3 2.5 0 2-1.5 3-3 3z" class="s3" fill-rule="evenodd" id="path17408"></path>
+					<path d="m1578.6 2630.4h-0.4 5.9c4.9 0 9.4-4.5 9.4-9.9v-3.9h0.5v3.9c0 5.4-4.5 9.9-9.9 9.9z" class="s3" fill-rule="evenodd" id="path17410"></path>
+					<path d="m1583.6 2624.5c-1.5 0-3-1.5-3-3 0-1.5 1.5-3 3-3 1.5 0 2.5 1.5 2.5 3 0 1.5-1 3-2.5 3z" class="s1" fill-rule="evenodd" id="path17412"></path>
+					<path d="m1583.6 2624c-1.1 0-2-0.9-2-2 0-1.1 0.9-2 2-2 1.1 0 2 0.9 2 2 0 1.1-0.9 2-2 2z" class="s2" fill-rule="evenodd" id="path17414"></path>
+					<path d="m1578.6 2630.4h-0.4v-7.9c0-3.5 2.9-5.9 5.9-5.9h7.4 2.5v0.4h-2.5-6.9c-3.5 0-6 2.5-6 5.5z" class="s3" fill-rule="evenodd" id="path17416"></path>
+				</g>
+				<path d="m1522.8 2623l-4-2-6.4 1-5.4 1 8.4 1.5 8.4-1.5z" class="s14" fill-rule="evenodd" id="polygon17418"></path>
+				<path d="m1438.2 2605.2h2l4-1.5-3 2.5-3.5 1v1.9l-1.4-1.9h-1.5l1.5-1.5 1.4-2z" class="s14" fill-rule="evenodd" id="polygon17420"></path>
+				<path d="m1518.8 2620.5l-6.4 1-4.5 1.5 7.5 1.5 7.4-1.5z" class="s18" fill-rule="evenodd" id="polygon17422"></path>
+				<path d="m1438.2 2604.7h2l4-1-3 2-3.5 1v1.4l-1.4-1.4-1.5 0.5 1.5-2 1.4-2z" class="s18" fill-rule="evenodd" id="polygon17424"></path>
+				<path d="m1550 2584.9l1.9-1.5 0.5-1.9h1.5l-1.5 2.4-2.4 1.5 0.5 1.5-1-1.5-4.5-1-1.9-2.9h0.9l1.5 2.4z" class="s18" fill-rule="evenodd" id="polygon17426"></path>
+			</g>
+			<g id="g17428">
+				<path d="m1401.2 2587.9c0.5-1 1.4-1.5 2.4-1-1 0-1.4 1-1.9 2z" class="s39" fill-rule="evenodd" id="path17430"></path>
+				<path d="m1400.7 2590.3v-0.9c0-1 0.5-3 1.9-3-0.9 1-0.9 3.9 0 4.4z" class="s37" fill-rule="evenodd" id="path17432"></path>
+				<path d="m1403.1 2591.3h19.8c2 0 3.5 1 3.5 3v44.5h-25.7v-41.5-6-3.4c0 1.5 1 2.9 2.4 3.4z" class="s37" fill-rule="evenodd" id="path17434"></path>
+				<path d="m1403.1 2592.3h19.8c2 0 3.5 1.5 3.5 3.5v44.5h-25.7v-41.5-6.5-2.9c0 1.4 1 2.9 2.4 2.9z" class="s70" fill-rule="evenodd" id="path17436"></path>
+				<path d="m1425.9 2593.8c-1-1-1.5-1.5-3-1 1.5 0 2 1 2 2z" class="s39" fill-rule="evenodd" id="path17438"></path>
+				<path d="m1403.1 2592.3h19.8c0.5 0 1 0.5 1.5 0.5h-20.8c-1.4 0-2.4-1-2.9-2v-1.4c0 1.4 1 2.9 2.4 2.9z" class="s39" fill-rule="evenodd" id="path17440"></path>
+				<path d="m1347.8 2597.3h1.5 73.6c2 0 3.5-1.5 3.5-3v3 5.4 36.1c0 1.5-1.5 3-3.5 3h-73.6v1.4h-1.5v-1.4l20.2-22.8-19.2-20.2h-1z" class="s37" fill-rule="evenodd" id="path17442"></path>
+				<path d="m1347.8 2598.8h75.1c2 0 3.5-1.5 3.5-3v3 5.4 36.1c0 1.5-1.5 2.9-3.5 2.9h-75.1l20.2-23.2z" class="s71" fill-rule="evenodd" id="path17444"></path>
+				<path d="m1347.8 2598.8h75.1c2 0 3.5-1.5 3.5-3v2c-0.5 1-1.5 1.4-2.5 1.4h-75.6z" class="s39" fill-rule="evenodd" id="path17446"></path>
+				<path d="m1360.6 2603.2h63.3c1 0 2.5-1 2.5-2.5v2.5 4.5 27.6c0 1.5-1.5 2.5-2.5 2.5h-63.3l15.8-17.8z" class="s72" fill-rule="evenodd" id="path17448"></path>
+				<path d="m1426.4 2595.8c0-1-0.5-3-2.5-3 1.5 0.5 1.5 3.5 0 4.5 1-0.5 2-1 2.5-1.5z" class="s37" fill-rule="evenodd" id="path17450"></path>
+				<path d="m1424.4 2599.7l0.5 0.5v41.6l-0.5 0.5c-0.5 0-1-0.5-1-0.5v-41.6c0 0 0.5-0.5 1-0.5z" class="s16" fill-rule="evenodd" id="path17452"></path>
+				<path d="m1347.8 2643.2h0.5l20.2-22.7-0.5-0.5z" class="s39" fill-rule="evenodd" id="polygon17454"></path>
+			</g>
+		</g>
+		<g id="g17456">
+		</g>
+		<g id="g17504">
+			<text style="transform: matrix(.937,0,0,.937,1445.162,2613.879)" id="THE LEGEND">
+				<tspan class="t73" y="0" x="0">T</tspan><tspan class="t73" y="0">H</tspan><tspan class="t73" y="0">E</tspan><tspan class="t73" y="0"> </tspan><tspan class="t73" y="0">L</tspan><tspan class="t73" y="0">E</tspan><tspan class="t73" y="0">G</tspan><tspan class="t73" y="0">E</tspan><tspan class="t73" y="0">N</tspan><tspan class="t73" y="0">D</tspan><tspan class="t73" y="0">
+</tspan>
+			</text>
+		</g>
+		<g id="g19072">
+			<g id="g19122">
+				<g id="g19248">
+				</g>
+				<g id="g19266">
+				</g>
+			</g>
+			<g id="g19294">
+			</g>
+		</g>
+		<g id="g19324">
+			<g id="g19328">
+				<g id="g19330">
+				</g>
+				<g id="g19342">
+				</g>
+				<g id="g19364">
+				</g>
+				<g id="g19386">
+				</g>
+				<g id="g19404">
+				</g>
+			</g>
+		</g>
+		<g id="g19434">
+			<g id="g19438">
+				<g id="g19440">
+				</g>
+				<g id="g19452">
+				</g>
+				<g id="g19474">
+				</g>
+				<g id="g19496">
+				</g>
+				<g id="g19514">
+				</g>
+			</g>
+		</g>
+		<g id="g19544">
+		</g>
+		<g id="g19570">
+		</g>
+		<g id="g19588">
+		</g>
+		<g id="g19600">
+		</g>
+		<g id="g19632">
+			<g id="Clip-Path: g19642">
+				<g id="g19642">
+					<g id="g19644">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g19660">
+			<g id="Clip-Path: g19670">
+				<g id="g19670">
+					<g id="g19672">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g19688">
+			<g id="Clip-Path: g19698">
+				<g id="g19698">
+					<g id="g19700">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g19716">
+			<g id="Clip-Path: g19726">
+				<g id="g19726">
+					<g id="g19728">
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g19744">
+			<g id="g19746">
+			</g>
+			<g id="g19756">
+			</g>
+			<g id="g19784">
+			</g>
+			<g id="g19794">
+				<g id="g19796">
+				</g>
+				<g id="g19808">
+					<g id="Clip-Path: g19820">
+						<g id="g19820">
+							<g id="g19822">
+								<g id="g19826">
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="g19876">
+				</g>
+				<g id="g19898">
+				</g>
+				<g id="g19920">
+				</g>
+				<g id="g19938">
+				</g>
+			</g>
+			<g id="g19966">
+			</g>
+		</g>
+		<g id="g19996">
+			<g id="g20000">
+				<g id="g20002">
+				</g>
+				<g id="g20014">
+				</g>
+				<g id="g20036">
+				</g>
+				<g id="g20058">
+				</g>
+				<g id="g20076">
+				</g>
+			</g>
+		</g>
+		<g id="g20106">
+			<g id="g20110">
+				<g id="g20112">
+				</g>
+				<g id="g20124">
+				</g>
+				<g id="g20146">
+				</g>
+				<g id="g20168">
+				</g>
+				<g id="g20186">
+				</g>
+			</g>
+		</g>
+		<g id="g20216">
+		</g>
+		<g id="g20242">
+		</g>
+		<g id="g20260">
+			<g id="g20264">
+				<g id="g20266">
+				</g>
+				<g id="g20278">
+				</g>
+				<g id="g20300">
+				</g>
+				<g id="g20322">
+				</g>
+				<g id="g20340">
+				</g>
+			</g>
+		</g>
+		<g id="g20370">
+			<g id="g20374">
+				<g id="g20376">
+				</g>
+				<g id="g20388">
+				</g>
+				<g id="g20410">
+				</g>
+				<g id="g20432">
+				</g>
+				<g id="g20450">
+				</g>
+			</g>
+		</g>
+		<g id="g20480">
+		</g>
+		<g id="g20492">
+		</g>
+		<g id="g20514">
+		</g>
+		<g id="g20534">
+		</g>
+		<g id="g20548">
+		</g>
+		<g id="g20562">
+		</g>
+		<g id="g20574">
+		</g>
+		<g id="g20586">
+		</g>
+		<g id="g20608">
+		</g>
+		<g id="g20628">
+		</g>
+		<g id="g20642">
+		</g>
+		<g id="g20656">
+		</g>
+		<g id="g20668">
+		</g>
+		<g id="g20680">
+		</g>
+		<g id="g20702">
+		</g>
+		<g id="g20722">
+		</g>
+		<g id="g20736">
+		</g>
+		<g id="g20750">
+		</g>
+		<g id="g20766">
+		</g>
+		<g id="g20778">
+		</g>
+		<g id="g20800">
+		</g>
+		<g id="g20834">
+		</g>
+		<g id="g20846">
+		</g>
+		<text style="transform: matrix(.576,0,0,.576,1411.458,2705.541)" id="Name">
+			<tspan class="t74" y="0" x="0">N</tspan><tspan class="t74" y="0">a</tspan><tspan class="t74" y="0">m</tspan><tspan class="t74" y="0">e
+</tspan>
+		</text>
+		<text style="transform: matrix(.576,0,0,.576,1412.447,2750.53)" id="Coins">
+			<tspan class="t74" y="0" x="0">C</tspan><tspan class="t74" y="0">o</tspan><tspan class="t74" y="0">i</tspan><tspan class="t74" y="0">n</tspan><tspan class="t74" y="0">s
+</tspan>
+		</text>
+		<text style="transform: matrix(.769,0,0,.769,1396.713,2800.124)" id="">
+		</text>
+	</g>
+</svg>
